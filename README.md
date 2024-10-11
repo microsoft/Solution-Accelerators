@@ -1,33 +1,28 @@
-# Project
+# System Integrator Partner - AI Solution Accelerator Repository
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This is a central hub for solution accelerators that are pre-built, open-source solutions designed to accelerate proof of value. They provide a starting point for the most common scenarios and are adaptable to partners' and customers' business needs. 
 
-As the maintainer of this project, please make a few updates:
+## AI Solution Accelerators
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+### Chat with your data
+Users can chat with their own data by combining Azure Cognitive Search and Large Language Models (LLMs) to create a conversational search experience. It enables increased user efficiency by minimizing endpoints required to access internal company knowledgebases.
+- [Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 
-## Contributing
+### Build your own copilot
+Users can see in action how to create their own copilots using Azure OpenAI Service, Azure AI Search, and Microsoft Fabric. The repository includes reusable architecture, code snippets, and deployment scripts to help accelerate AI projects.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+#### Client Advisor
+This copilot helps client advisors to save time and prepare relevant discussion topics for scheduled meetings. It provides an overview of daily client meetings with seamless navigation between viewing client profiles and chatting with structured data. Altogether, these features streamline meeting preparation for the advisors and result in more productive conversations with clients.
+- [Solution Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator?tab=readme-ov-file#client-advsior)
+  
+#### Researcher
+This copilot helps the researchers find relevant articles and grants available for their research topic easily using a conversational assistant. Researcher can generate different sections of a grant application with a simple button click, then they can refine the prompts and regenerate individual sections to add more details as needed. Finally, the generated grant application can be exported as a PDF or a Microsoft Word document for further processing.
+- [Solution Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator?tab=readme-ov-file#research-assistant)
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+#### Document Generation
+This copilot is a powerful tool that helps you create your own AI assistant(s). The accelerator can be used by any customer looking for reusable architecture and code snippets to build an AI assistant(s) with their own enterprise data. It leverages Azure Open AI Service and Azure AI Search, to identify relevant documents, summarize unstructured information, and generate Word document templates using your own data.
+- [Solution Accelerator](https://github.com/microsoft/Generic-Build-your-own-copilot-Solution-Accelerator)  
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-## Trademarks
-
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+### Conversation knowledge mining
+Users can maximize their contact center efficiency and customer satisfaction by utilizing AI driven knowledge mining enabled by Fabric, Azure Speech Service and Azure OpenAI Service. Gain valuable post-conversation insights to inform actions, improve product offerings, optimize operational efficiency and improve customer experience.
+- [Solution Accelerator](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)  

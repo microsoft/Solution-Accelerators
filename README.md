@@ -1,4 +1,4 @@
-# System Integrator Partner - AI Solution Accelerator Repository
+# Solution Accelerator Repository
 
 This is a central hub for solution accelerators that are pre-built, open-source solutions designed to accelerate proof of value. They provide a starting point for the most common scenarios and are adaptable to partners' and customers' business needs. 
 

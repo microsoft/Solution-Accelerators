@@ -27,3 +27,13 @@ This copilot is a powerful tool that helps you create your own AI assistant(s). 
 ### Conversation knowledge mining
 Users can maximize their contact center efficiency and customer satisfaction by utilizing AI driven knowledge mining enabled by Fabric, Azure Speech Service and Azure OpenAI Service. Gain valuable post-conversation insights to inform actions, improve product offerings, optimize operational efficiency and improve customer experience.
 - [Solution Accelerator](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)  
+
+## Sustainability Accelerators
+
+### Comparative Analysis for Sustainability
+Users can leap ahead with their sustainability initiatives by using AI to compare with peers, evaluate against industry standards, and quickly create a plan of action. This accelerator leverages Azure OpenAI Service, Document Intelligence, Power Apps and Copilot Studio to efficiently navigate sustainability documents.
+- [Solution Accelerator](https://github.com/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator/)
+
+### Task Management in Microsoft Sustainability Manager
+The Task Management in Microsoft Sustainability Manager (MSM) accelerator enhances MSM by enabling users to manage tasks within a single interface. This accelerator facilitates task creation, assignment, collaboration, and resolution, improving productivity and visibility, and ensuring timely completion of sustainability-related tasks.
+- [Solution Accelerator](https://github.com/microsoft/Task-Management-in-Microsoft-Sustainability-Manager-Solution-Accelerator)

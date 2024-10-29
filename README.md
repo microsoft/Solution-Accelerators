@@ -24,10 +24,17 @@ This copilot helps the researchers find relevant articles and grants available f
 This copilot is a powerful tool that helps you create your own AI assistant(s). The accelerator can be used by any customer looking for reusable architecture and code snippets to build an AI assistant(s) with their own enterprise data. It leverages Azure Open AI Service and Azure AI Search, to identify relevant documents, summarize unstructured information, and generate Word document templates using your own data.
 - [Solution Accelerator](https://github.com/microsoft/Generic-Build-your-own-copilot-Solution-Accelerator)  
 
-### Conversation knowledge mining
-Users can maximize their contact center efficiency and customer satisfaction by utilizing AI driven knowledge mining enabled by Fabric, Azure Speech Service and Azure OpenAI Service. Gain valuable post-conversation insights to inform actions, improve product offerings, optimize operational efficiency and improve customer experience.
+### Knowledge Mining
+Users can see how to accelerate decision making at scale with intelligence that uncovers insights, relationships, and patterns from large data sets. We have two repositories that cover different topics: document knowledge mining and conversation knowledge mining. Both repositories include reusable architecture, code snippets, and deployment scripts to help accelerate AI projects.
+
+#### Conversation Knowledge Mining
+This solution maximizes contact center efficiency and customer satisfaction by utilizing AI driven knowledge mining enabled by Fabric, Azure Speech Service and Azure OpenAI Service. Gain valuable post-conversation insights to inform actions, improve product offerings, optimize operational efficiency and improve customer experience.
 - [Solution Accelerator](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)  
 
+#### Document Knowledge Mining
+This solution helps you ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy reasoning. It leveraging Azure OpenAI and Azure AI Document Intelligence in a hybrid approach by combining Optical Character Recognition (OCR) and multi-modal Large Language Model (LLM) to extract information from documents to provide insights without pre-training including text documents, handwritten text, charts, graphs, tables, and form fields.
+- [Solution Accelerator](https://github.com/microsoft/Generic-Build-your-own-copilot-Solution-Accelerator)
+- 
 ## Sustainability Accelerators
 
 ### Comparative Analysis for Sustainability

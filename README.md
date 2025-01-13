@@ -34,7 +34,11 @@ This solution maximizes contact center efficiency and customer satisfaction by u
 #### Document Knowledge Mining
 This solution helps you ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy reasoning. It leverages Azure OpenAI and Azure AI Document Intelligence in a hybrid approach by combining Optical Character Recognition (OCR) and multi-modal Large Language Model (LLM) to extract information from documents to provide insights without pre-training including text documents, handwritten text, charts, graphs, tables, and form fields.
 - [Solution Accelerator](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator)
-  
+
+### Multi-Agent Custom Automation Engine
+This Solution Accelerator is an AI-driven orchestration system that manages a group of AI agents to accomplish tasks based on user input. Powered by AutoGen, Azure OpenAI, Cosmos, and infrastructure services, it provides a ready to go application to use as a reference, allowing you to hit the ground running.
+- [Solution Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
+
 ## Sustainability Accelerators
 
 ### Comparative Analysis for Sustainability

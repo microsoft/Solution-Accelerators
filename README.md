@@ -10,6 +10,11 @@ Users can process claims, invoices, contracts and other documents containing tex
 
 - [Solution Accelerator](https://github.com/microsoft/content-processing-solution-accelerator)
 
+### Modernization Code
+Empower users to effortlessly migrate legacy code, leveraging AI to streamline processes, reduce manual effort, and enhance operational efficiency. The accelerator utilizes an agentic framework for code conversion, with each agent playing a specialized role in analyzing, converting, and testing SQL queries.
+
+- [Solution Accelerator](https://github.com/microsoft/Modernize-your-code-solution-accelerator)
+  
 ### Chat with your data
 Users can chat with their own data by combining Azure Cognitive Search and Large Language Models (LLMs) to create a conversational search experience. It enables increased user efficiency by minimizing endpoints required to access internal company knowledgebases.
 - [Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)

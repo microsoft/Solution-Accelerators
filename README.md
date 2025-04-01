@@ -10,7 +10,7 @@ Users can process claims, invoices, contracts and other documents containing tex
 
 - [Solution Accelerator](https://github.com/microsoft/content-processing-solution-accelerator)
 
-### Modernization Code
+### Modernize your code
 Empower users to effortlessly migrate legacy code, leveraging AI to streamline processes, reduce manual effort, and enhance operational efficiency. The accelerator utilizes an agentic framework for code conversion, with each agent playing a specialized role in analyzing, converting, and testing SQL queries.
 
 - [Solution Accelerator](https://github.com/microsoft/Modernize-your-code-solution-accelerator)

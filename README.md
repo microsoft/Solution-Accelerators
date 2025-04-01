@@ -5,6 +5,11 @@ This is a central hub for solution accelerators that are pre-built, open-source 
 
 ## Cloud and AI Solution Accelerators
 
+### Content Processing
+Users can process claims, invoices, contracts and other documents containing text, images, tables and graphs quickly and accurately by extracting information from unstructured content and mapping it to a structured format. This solution enables machine-to-machine, API-driven content processing pipelines to automate data workflows.
+
+- [Solution Accelerator](https://github.com/microsoft/content-processing-solution-accelerator)
+
 ### Chat with your data
 Users can chat with their own data by combining Azure Cognitive Search and Large Language Models (LLMs) to create a conversational search experience. It enables increased user efficiency by minimizing endpoints required to access internal company knowledgebases.
 - [Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)

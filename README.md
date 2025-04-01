@@ -50,6 +50,10 @@ Users can leap ahead with their data initiatives by using AI to compare document
 
 ## Business AI Transformation Accelerators
 
+### Agents for Contract Processing
+This solution streamlines contract management by creating, finding, managing and sharing contracts which lead to saving time and resources by automating contract processing workflows. The solution leverages Copilot Studio, Dataverse, Power Automate, SharePoint, Microsoft Teams and a 3rd party e-signature connector.
+- [Solution Accelerator](https://github.com/microsoft/Agent-for-Contract-Processing-Solution-Accelerator))
+
 ### Agents for Enhanced Customer Care
 This solution elevates customer care with an AI-powered Contact Center by identifying customer intent, creating dynamic action plans, leveraging organizational knowledge and providing customer specific AI insights which lead to increased customer satisfaction. The solution leverages Copilot Studio, Dynamics 365 Contact Center, Power Platform and Azure Maps.
 - [Solution Accelerator](https://github.com/microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator)

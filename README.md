@@ -10,6 +10,11 @@ Users can process claims, invoices, contracts and other documents containing tex
 
 - [Solution Accelerator](https://github.com/microsoft/content-processing-solution-accelerator)
 
+### Modernize your code
+Empower users to effortlessly migrate legacy code, leveraging AI to streamline processes, reduce manual effort, and enhance operational efficiency. The accelerator utilizes an agentic framework for code conversion, with each agent playing a specialized role in analyzing, converting, and testing SQL queries.
+
+- [Solution Accelerator](https://github.com/microsoft/Modernize-your-code-solution-accelerator)
+  
 ### Chat with your data
 Users can chat with their own data by combining Azure Cognitive Search and Large Language Models (LLMs) to create a conversational search experience. It enables increased user efficiency by minimizing endpoints required to access internal company knowledgebases.
 - [Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
@@ -49,6 +54,10 @@ Users can leap ahead with their data initiatives by using AI to compare document
 - [Solution Accelerator](https://github.com/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator/)
 
 ## Business AI Transformation Accelerators
+
+### Agents for Contract Processing
+This solution streamlines contract management by creating, finding, managing and sharing contracts which lead to saving time and resources by automating contract processing workflows. The solution leverages Copilot Studio, Dataverse, Power Automate, SharePoint, Microsoft Teams and a 3rd party e-signature connector.
+- [Solution Accelerator](https://github.com/microsoft/Agent-for-Contract-Processing-Solution-Accelerator))
 
 ### Agents for Enhanced Customer Care
 This solution elevates customer care with an AI-powered Contact Center by identifying customer intent, creating dynamic action plans, leveraging organizational knowledge and providing customer specific AI insights which lead to increased customer satisfaction. The solution leverages Copilot Studio, Dynamics 365 Contact Center, Power Platform and Azure Maps.

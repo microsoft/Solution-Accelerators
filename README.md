@@ -24,7 +24,7 @@ Users can see in action how to create their own copilots using Azure OpenAI Serv
 
 #### Client Advisor
 This copilot helps client advisors to save time and prepare relevant discussion topics for scheduled meetings. It provides an overview of daily client meetings with seamless navigation between viewing client profiles and chatting with structured data. Altogether, these features streamline meeting preparation for the advisors and result in more productive conversations with clients.
-- [Solution Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator?tab=readme-ov-file#client-advsior)
+- [Solution Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator?tab=readme-ov-file#client-advisor)
   
 #### Researcher
 This copilot helps the researchers find relevant articles and grants available for their research topic easily using a conversational assistant. Researcher can generate different sections of a grant application with a simple button click, then they can refine the prompts and regenerate individual sections to add more details as needed. Finally, the generated grant application can be exported as a PDF or a Microsoft Word document for further processing.
@@ -57,7 +57,7 @@ Users can leap ahead with their data initiatives by using AI to compare document
 
 ### Agents for Contract Processing
 This solution streamlines contract management by creating, finding, managing and sharing contracts which lead to saving time and resources by automating contract processing workflows. The solution leverages Copilot Studio, Dataverse, Power Automate, SharePoint, Microsoft Teams and a 3rd party e-signature connector.
-- [Solution Accelerator](https://github.com/microsoft/Agent-for-Contract-Processing-Solution-Accelerator))
+- [Solution Accelerator](https://github.com/microsoft/Agent-for-Contract-Processing-Solution-Accelerator)
 
 ### Agents for Enhanced Customer Care
 This solution elevates customer care with an AI-powered Contact Center by identifying customer intent, creating dynamic action plans, leveraging organizational knowledge and providing customer specific AI insights which lead to increased customer satisfaction. The solution leverages Copilot Studio, Dynamics 365 Contact Center, Power Platform and Azure Maps.

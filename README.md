@@ -10,7 +10,7 @@ Users can process claims, invoices, contracts and other documents containing tex
 
 - [Solution Accelerator](https://github.com/microsoft/content-processing-solution-accelerator)
 
-### Modernize your code
+### Modernize your Code
 Empower users to effortlessly migrate legacy code, leveraging AI to streamline processes, reduce manual effort, and enhance operational efficiency. The accelerator utilizes an agentic framework for code conversion, with each agent playing a specialized role in analyzing, converting, and testing SQL queries.
 
 - [Solution Accelerator](https://github.com/microsoft/Modernize-your-code-solution-accelerator)
@@ -54,6 +54,14 @@ Users can leap ahead with their data initiatives by using AI to compare document
 - [Solution Accelerator](https://github.com/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator/)
 
 ## Business AI Transformation Accelerators
+
+### Agent for HR Service
+This solution streamlines HR service workflows with an AI-powered assistant that delivers instant answers, automates record updates, and provides intelligent support, saving time and elevating the employee experience.
+- [Solution Accelerator](https://aka.ms/CSAGoldStandards/AgentForHRS)
+
+### Agent for RFP Response
+This solution increases efficiency and precision by leveraging the deep reasoning capabilities of an autonomous AI Agent to swiftly summarize, analyze, and generate high-quality RFP responses. By integrating Copilot Studio, Power Automate, SharePoint, and Microsoft Teams, this solution streamlines workflows and ensures seamless collaboration across platforms.
+- [Solution Accelerator](https://aka.ms/CSAGoldStandards/AgentForRFPResponse)
 
 ### Agents for Contract Processing
 This solution streamlines contract management by creating, finding, managing and sharing contracts which lead to saving time and resources by automating contract processing workflows. The solution leverages Copilot Studio, Dataverse, Power Automate, SharePoint, Microsoft Teams and a 3rd party e-signature connector.

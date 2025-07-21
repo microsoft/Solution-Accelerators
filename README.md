@@ -49,9 +49,6 @@ This solution helps you ingest, extract, and classify content from a high volume
 This Solution Accelerator is an AI-driven orchestration system that manages a group of AI agents to accomplish tasks based on user input. Powered by AutoGen, Azure OpenAI, Cosmos, and infrastructure services, it provides a ready to go application to use as a reference, allowing you to hit the ground running.
 - [Solution Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
 
-### Comparative Analysis
-Users can leap ahead with their data initiatives by using AI to compare documents, evaluate against industry standards, and quickly create a plan of action. This accelerator leverages Azure OpenAI Service, Document Intelligence, Power Apps and Copilot Studio to efficiently navigate document comparison.
-- [Solution Accelerator](https://github.com/microsoft/Comparative-Analysis-for-Sustainability-Solution-Accelerator/)
 
 ## Business AI Transformation Accelerators
 
@@ -70,7 +67,4 @@ This solution streamlines contract management by creating, finding, managing and
 ### Agents for Enhanced Customer Care
 This solution elevates customer care with an AI-powered Contact Center by identifying customer intent, creating dynamic action plans, leveraging organizational knowledge and providing customer specific AI insights which lead to increased customer satisfaction. The solution leverages Copilot Studio, Dynamics 365 Contact Center, Power Platform and Azure Maps.
 - [Solution Accelerator](https://github.com/microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator)
-  
-### Task Management in MSM
-The Task Management in Microsoft Sustainability Manager (MSM) accelerator enhances MSM by enabling users to manage tasks within a single interface. This accelerator facilitates task creation, assignment, collaboration, and resolution, improving productivity and visibility, and ensuring timely completion of sustainability-related tasks.
-- [Solution Accelerator](https://github.com/microsoft/Task-Management-in-Microsoft-Sustainability-Manager-Solution-Accelerator)
+

@@ -1,0 +1,9 @@
+/* Enhanced background image styling for DifferentiatorSection */
+.differentiator-section {
+  background-image: url('/differentiators/differentiatorGradient.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding: 4rem 0 5rem 0;
+  position: relative;
+} 

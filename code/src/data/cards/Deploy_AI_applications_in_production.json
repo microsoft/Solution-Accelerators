@@ -1,0 +1,53 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents",
+    "Migrate & modernize your estate"],
+  "solutionAreas": ["Cloud & AI Platforms"],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Deploy Your AI Application in Production",
+  "programmingLanguages": ["Bicep", "Shell", "PowerShell", "Python"],
+  "excerpt": "Create a secure, extensible and integrated environment for deploying and running AI Foundry workloads in production.",
+  "productsAndServices": [
+    "Azure OpenAI Service",
+    "Azure AI Search",
+    "Azure Cosmos DB",
+    "Azure Container Apps"
+  ],
+  "githubUrl": "https://github.com/microsoft/deploy-your-ai-application-in-production",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "http://aka.ms/aitoprodppt",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "",
+  "foundryTemplateName": "Deploy Your AI application in Production",
+  "useCases": [
+    "Create a secure environment for AI workload deployment",
+    "Integrate AI applications with existing enterprise systems",
+    "Optimize AI model performance for production environments",
+    "Ensure compliance with security and governance standards",
+    "Automate monitoring and scaling of AI applications",
+    "Enable seamless collaboration between AI and business teams"
+  ],
+  "keywords": ["Data and AI", "Digital and App Innovation"],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2024-03-31",
+  "updatedDate": "2025-08-15"
+}

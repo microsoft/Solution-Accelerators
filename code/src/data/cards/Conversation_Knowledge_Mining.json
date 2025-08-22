@@ -1,0 +1,62 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Conversation Knowledge Mining",
+  "programmingLanguages": ["Bicep", "TypeScript", "Python", "Jupyter Notebook"],
+  "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities.",
+  "productsAndServices": [
+    "Azure AI Content Understanding",
+    "Azure OpenAI Service",
+    "Azure AI Search",
+    "Azure AI Agent Service",
+    "Azure Container Apps", 
+    "Azure SQL Database", 
+    "Azure Functions"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/ConversationKnowledgeMining",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/CKMDeck",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Knowledge Mining",
+  "foundryTemplateName": "Unlock insights from conversational data",
+  "useCases": [
+    "Mining call center conversations for patterns / insights",
+    "Call center ops improvement",
+    "Call transcription and summarization",
+
+    "Analyze call center conversations for customer sentiment insights",
+    "Summarize customer interactions for improved service efficiency",
+    "Identify recurring issues in customer support calls",
+    "Optimize call center operations with AI-driven analytics",
+    "Automate transcription and summarization of customer conversations",
+    "Provide actionable insights for improving customer engagement"
+  ],
+  "keywords": [
+    "Call Center",
+    "Transcription",
+    "Call summarization",
+    "Content understanding",
+    "Call center operations",
+      "Data and AI",
+    "Digital and App Innovation"
+  ],
+  "industries": [
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Retail", 
+    "Telecommunications"
+  ],
+  "releaseDate": "2024-12-01",
+  "updatedDate": "2025-08-15"
+}

@@ -1,0 +1,84 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Document Knowledge Mining",
+  "programmingLanguages": ["Bicep", "TypeScript", "C#", "PowerShell"],
+  "excerpt": "Ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy review.",
+  "productsAndServices": [
+    "Azure OpenAI Service",
+    "Azure AI Search",
+    "Azure AI Document Intelligence"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/DocumentKnowledgeMining",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/DKMDeck",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Knowledge Mining",
+  "foundryTemplateName": "",
+  "useCases": [
+    "Document processing and Knowledge Insights",
+    "Drug Discovery",
+    "Research",
+
+    "Extract and classify content from large document repositories",
+    "Perform entity mapping for improved document organization",
+    "Analyze key phrases and topics for research insights",
+    "Enable semantic search for quick document retrieval",
+    "Automate document summarization for efficient review",
+    "Enhance multi-modal processing with AI-driven analysis"
+  ],
+  "keywords": [
+    "Data ingestion pipeline",
+    "Entity mapping",
+    "Key phrase and topic analysis",
+    "Semantic search",
+    "Chat with Unstructured (RAG 2.0)",
+    "Image Processing",
+    "Multi-modal processing",
+    "Natural language text analysis and summarization",
+    "Data and AI",
+    "Digital and App Innovation",
+    "Banking",
+    "Data extraction", 
+    "data ingestion pipeline", 
+    "Entity mapping", 
+    "Key phrase and topic analysis", 
+    "Semantic search", 
+    "Chat with Unstructured (RAG 2.0)", 
+    "Image Processing", 
+    "Multi-modal processing", 
+    "Natural language text analysis and summarization", 
+    "Prompt ​suggestion",
+    "ext and document data analysis", 
+    "content comparison", 
+    "content summarization", 
+    "document processing", 
+    "image processing", 
+    "automated processing", 
+    "insight discovery", 
+    "handwriting recognition", 
+    "charts", "graphs", "tables", 
+    "form fields", "DKM", "KM"
+  ],
+  "industries": [
+    "Defense and Intelligence", 
+    "Education", 
+    "Financial Services", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Retail", 
+    "Professional Services"
+  ],
+  "releaseDate": "2024-12-15",
+  "updatedDate": "2025-08-15"
+}

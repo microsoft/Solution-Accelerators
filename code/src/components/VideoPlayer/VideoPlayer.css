@@ -1,0 +1,20 @@
+/* VideoPlayer component styles */
+.video-player-container {
+  /* Additional custom styles can be added here if needed */
+}
+
+/* Ensure the video container maintains its aspect ratio */
+.video-player-container iframe {
+  border: none;
+}
+
+/* Smooth transitions for the play button hover effect */
+.video-player-container .play-button {
+  transition: all 0.2s ease-in-out;
+}
+
+/* Ensure the thumbnail image covers the entire container properly */
+.video-player-container .thumbnail-image {
+  object-fit: cover;
+  object-position: center;
+} 

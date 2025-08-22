@@ -1,0 +1,27 @@
+/* Header component styles */
+.header {
+  position: relative;
+  z-index: 10;
+}
+
+/* Ensure no default solid background interrupts the shared gradient */
+header {
+  background: transparent;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Responsive header styles */
+@media (max-width: 768px) {
+  .header {
+    padding: 0.75rem 1rem;
+  }
+  
+  .header-content {
+    gap: 0.25rem;
+  }
+} 

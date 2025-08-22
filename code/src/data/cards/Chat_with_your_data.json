@@ -1,0 +1,85 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Chat with your data",
+  "programmingLanguages": ["Bicep", "TypeScript", "Python"],
+  "excerpt": "Create a conversational AI chat experience to extract key information, summarize content, and provide relevant  insights from your unstructured data.",
+  "productsAndServices": [
+    "Azure OpenAI Service",
+    "Azure AI Search",
+    "Azure Cosmos DB",
+    "Azure PostgreSQL",
+    "Azure Container Apps",
+    "Azure Functions",
+    "Azure AI Document Intelligence", 
+    "Azure Speech Service" 
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/ChatWithYourData",
+  "assets": [
+    {
+      "label": "Walkthrough - Energy",
+      "href": "https://aka.ms/CWYDDeck",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Employee Onboarding",
+      "href": "https://aka.ms/CWYDDeck-EmployeeOnboarding",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Contract Review",
+      "href": "https://aka.ms/CWYDDeck-ContractReview",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Financial Advisor",
+      "href": "https://aka.ms/CWYDDeck-FinancialAdvisor",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Chat with your data",
+  "foundryTemplateName": "",
+  "useCases": [
+    "Employee chatbot for HR / benefits\u200b",
+    "Professional Services assistance (Legal/Tax/Audit)\u200b",
+    "Analytics and reporting\u200b",
+    "Contact center agent assistance\u200b",
+    "Employee Assist\u200b",
+
+    "Extract key information from unstructured data using AI-powered chat",
+    "Summarize lengthy documents for quick review",
+    "Provide AI-driven insights based on conversational queries",
+    "Enable interactive data exploration through natural language queries",
+    "Assist in contract review by highlighting critical clauses",
+    "Improve employee onboarding with AI-powered knowledge retrieval"
+  ],
+  "keywords": [
+    "Internal chatbot",
+    "Data and AI",
+    "Digital and App Innovation",
+    "CWYD"
+  ],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2023-12-31",
+  "updatedDate": "2025-08-15"
+}

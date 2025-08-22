@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Additional spacing so sections land slightly lower than the header */
+  --nav-extra-offset: 12px;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Fluid gradient background shared by Header + Hero */
+.home-hero-gradient {
+  position: relative;
+  isolation: isolate; /* ensure header backdrop-blur only blurs this background */
+  /* Layered, responsive gradients */
+  --accent-pink: 255 182 193;   /* light rose */
+  --accent-lilac: 205 180 219;  /* soft lilac */
+  --accent-sky: 173 216 230;    /* light sky */
+
+  background-image:
+    radial-gradient(60vw 60vw at 15% 10%, rgba(var(--accent-pink) / 0.35), rgba(255 255 255 / 0) 60%),
+    radial-gradient(50vw 50vw at 85% 5%, rgba(var(--accent-lilac) / 0.35), rgba(255 255 255 / 0) 55%),
+    radial-gradient(65vw 50vw at 80% 70%, rgba(var(--accent-sky) / 0.30), rgba(255 255 255 / 0) 60%);
+
+  /* Give hero breathing room so gradient is visible */
+  padding-bottom: 2rem;
+}
+
+@media (max-width: 768px) {
+  .home-hero-gradient {
+    background-image:
+      radial-gradient(80vw 80vw at 20% 8%, rgba(var(--accent-pink) / 0.38), rgba(255 255 255 / 0) 62%),
+      radial-gradient(70vw 70vw at 85% 0%, rgba(var(--accent-lilac) / 0.34), rgba(255 255 255 / 0) 58%),
+      radial-gradient(90vw 70vw at 60% 75%, rgba(var(--accent-sky) / 0.28), rgba(255 255 255 / 0) 62%);
+    padding-bottom: 1.5rem;
+  }
+}
+
+/* Ensure in-flow sections account for sticky navigation height when scrolled into view */
+.section-anchor {
+  scroll-margin-top: calc(var(--nav-height, 64px) + var(--nav-extra-offset, 0px));
+}

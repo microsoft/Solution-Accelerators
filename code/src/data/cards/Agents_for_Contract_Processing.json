@@ -1,0 +1,67 @@
+{
+  "solutionPlays": ["Copilot for M365", "AI Powered Copilot for Business"],
+  "solutionAreas": ["AI Business Solutions"],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Agents for Contract Processing",
+  "programmingLanguages": ["Low Code"],
+  "excerpt": "Streamline contract processing with an ​AI Agent that helps employees quickly create, find, manage, and share contracts to save time and resources by automating  workflows.​",
+  "productsAndServices": [
+    "Copilot Studio", 
+    "Power Platform", 
+    "Microsoft Teams", 
+    "SharePoint", 
+    "Power Automate", 
+    "Dataverse"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/AgentsForCP",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/AgentsForCPPitchDeck",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Reprise Click-through Demo",
+      "href": "https://aka.ms/AgentsforCPReprise",
+      "fileType": ""
+    }
+  ],
+  "technicalPattern": "Risk and Compliance",
+  "foundryTemplateName": "",
+  "useCases": [
+    "This solution streamlines contract management by creating",
+    "finding",
+    "managing and sharing contracts which lead to saving time and resources by automating contract processing workflows. The solution leverages Copilot Studio",
+    "Dataverse",
+    "Power Automate",
+    "SharePoint",
+    "Microsoft Teams and a 3rd party e-signature connector.",
+    
+    "Automate contract creation and approval workflows",
+    "Enable quick search and retrieval of contracts using AI-powered indexing",
+    "Streamline contract lifecycle management with automated tracking and notifications",
+    "Integrate e-signature solutions for seamless contract execution",
+    "Ensure compliance by automatically flagging contract discrepancies",
+    "Provide contract analytics and insights for better decision-making"
+  ],
+  "keywords": [
+    "User intent detection in Copilot Studio",
+    "Adaptive Cards in Copilot Studio",
+    "Publishing Copilot agent in Microsoft Teams",
+    "Capturing e-signatures using DocuSign",
+    "Configure tables in Dataverse",
+    "Using SharePoint library for document storage",
+    "Modern Work",
+    "Business Applications"
+  ],
+  "industries": [
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Professional Services"
+  ],
+  "releaseDate": "2024-03-15",
+  "updatedDate": "2025-08-15"
+}

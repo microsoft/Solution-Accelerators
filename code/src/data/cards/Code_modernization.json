@@ -1,0 +1,66 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents",
+    "Migrate & modernize your estate"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Modernize your Code",
+  "programmingLanguages": ["Bicep", "TypeScript", "Python"],
+  "excerpt": "Migrate legacy code to modern languages by leveraging a team of AI agents.",
+  "productsAndServices": [
+    "Azure OpenAI Service",
+    "Azure AI Agent Service",
+    "Semantic Kernel",
+    "Azure Container Apps",
+    "Azure Cosmos DB"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/ModernizeCode",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/ModernizeCodeDeck",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Modernize your code",
+  "foundryTemplateName": "Modernize your code with agents",
+  "useCases": [
+    "Code translation\u200b \n\nGenerate initial code drafts\u202f\u200b \n\nCode correction and refactoring\u200b \n\nRoot-cause analysis\u200b \n\nGenerate new system designs",
+
+    "Translate legacy code into modern programming languages",
+    "Generate initial code drafts based on business logic",
+    "Automate code correction and refactoring",
+    "Perform root-cause analysis for debugging and optimization",
+    "Generate new system designs using AI-driven recommendations",
+    "Improve code efficiency with AI-powered transformation tools"
+  ],
+  "keywords": [
+    "Code language modernization",
+    "summary and review of new code",
+    "business logic analysis",
+    "efficient code transformation",
+    "Data and AI",
+    "Digital and App Innovation"
+  ],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2025-03-15",
+  "updatedDate": "2025-08-15"
+}

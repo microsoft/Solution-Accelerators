@@ -1,0 +1,22 @@
+/* SuccessStoriesSection component styles */
+.success-stories-section {
+  /* Additional custom styles can be added here if needed */
+}
+
+/* Ensure proper spacing and alignment */
+.testimonial-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Quote text styling */
+.quote-text {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Author name styling */
+.author-name {
+  margin-top: auto;
+} 

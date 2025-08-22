@@ -1,0 +1,28 @@
+/* TextSection component styles */
+.text-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.text-content {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Responsive text section styles */
+@media (max-width: 768px) {
+  .text-section {
+    padding: 2rem 1rem;
+  }
+  
+  .text-content {
+    padding: 0 1rem;
+  }
+  
+  .text-content h2 {
+    font-size: 2.5rem;
+  }
+} 

@@ -1,70 +1,132 @@
-![Solution Accelerators](solution-accelerator-header.jpg "Solutiong Accelerators")
-# Solution Accelerator Repository
+# CSA Solution Accelerators Landing Page
 
-This is a central hub for solution accelerators that are pre-built, open-source solutions designed to accelerate proof of value. They provide a starting point for the most common scenarios and are adaptable to partners' and customers' business needs. 
+A modern, responsive React-based landing page showcasing Microsoft's AI Solution Accelerators. Built with React 18, TypeScript, Vite, and Tailwind CSS, this application provides an intuitive interface for exploring and discovering AI accelerators, solution areas, and implementation resources.
 
-## Cloud and AI Solution Accelerators
+## Features
 
-### Content Processing
-Users can process claims, invoices, contracts and other documents containing text, images, tables and graphs quickly and accurately by extracting information from unstructured content and mapping it to a structured format. This solution enables machine-to-machine, API-driven content processing pipelines to automate data workflows.
+- **Modern UI/UX**: Clean, professional design using Fluent UI components and Tailwind CSS
+- **Deep Linking**: Advanced navigation system with URL synchronization and smooth scrolling
+- **Search & Filtering**: Real-time search with multi-category filtering capabilities
+- **Responsive Design**: Mobile-first approach with touch-friendly interactions
+- **Performance Optimized**: Fast loading with code splitting and lazy loading
+- **Accessibility**: WCAG 2.1 AA compliant with keyboard navigation support
 
-- [Solution Accelerator](https://github.com/microsoft/content-processing-solution-accelerator)
+## Technology Stack
 
-### Modernize your Code
-Empower users to effortlessly migrate legacy code, leveraging AI to streamline processes, reduce manual effort, and enhance operational efficiency. The accelerator utilizes an agentic framework for code conversion, with each agent playing a specialized role in analyzing, converting, and testing SQL queries.
+- **Frontend**: React 18 + TypeScript
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS + Fluent UI React Components
+- **Icons**: Fluent UI React Icons
+- **Deployment**: GitHub Pages
+- **Data**: Static JSON with dynamic filtering
 
-- [Solution Accelerator](https://github.com/microsoft/Modernize-your-code-solution-accelerator)
-  
-### Chat with your data
-Users can chat with their own data by combining Azure Cognitive Search and Large Language Models (LLMs) to create a conversational search experience. It enables increased user efficiency by minimizing endpoints required to access internal company knowledgebases.
-- [Solution Accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
+## Getting Started
 
-### Build your own copilot
-Users can see in action how to create their own copilots using Azure OpenAI Service, Azure AI Search, and Microsoft Fabric. The repository includes reusable architecture, code snippets, and deployment scripts to help accelerate AI projects.
+### Prerequisites
 
-#### Client Advisor
-This copilot helps client advisors to save time and prepare relevant discussion topics for scheduled meetings. It provides an overview of daily client meetings with seamless navigation between viewing client profiles and chatting with structured data. Altogether, these features streamline meeting preparation for the advisors and result in more productive conversations with clients.
-- [Solution Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator?tab=readme-ov-file#client-advisor)
-  
-#### Researcher
-This copilot helps the researchers find relevant articles and grants available for their research topic easily using a conversational assistant. Researcher can generate different sections of a grant application with a simple button click, then they can refine the prompts and regenerate individual sections to add more details as needed. Finally, the generated grant application can be exported as a PDF or a Microsoft Word document for further processing.
-- [Solution Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator?tab=readme-ov-file#research-assistant)
+- Node.js 18+ 
+- npm or yarn package manager
 
-#### Document Generation
-This copilot is a powerful tool that helps you create your own AI assistant(s). The accelerator can be used by any customer looking for reusable architecture and code snippets to build an AI assistant(s) with their own enterprise data. It leverages Azure Open AI Service and Azure AI Search, to identify relevant documents, summarize unstructured information, and generate Word document templates using your own data.
-- [Solution Accelerator](https://github.com/microsoft/Generic-Build-your-own-copilot-Solution-Accelerator)  
+### Installation
 
-### Knowledge Mining
-Users can see how to accelerate decision making at scale with intelligence that uncovers insights, relationships, and patterns from large data sets. We have two repositories that cover different topics: document knowledge mining and conversation knowledge mining. Both repositories include reusable architecture, code snippets, and deployment scripts to help accelerate AI projects.
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/csa-sas-ext-landingpage.git
+cd csa-sas-ext-landingpage
+```
 
-#### Conversation Knowledge Mining
-This solution maximizes contact center efficiency and customer satisfaction by utilizing AI driven knowledge mining enabled by Fabric, Azure Speech Service and Azure OpenAI Service. Gain valuable post-conversation insights to inform actions, improve product offerings, optimize operational efficiency and improve customer experience.
-- [Solution Accelerator](https://github.com/microsoft/Customer-Service-Conversational-Insights-with-Azure-OpenAI-Services)  
+2. Install dependencies:
+```bash
+npm install
+```
 
-#### Document Knowledge Mining
-This solution helps you ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy reasoning. It leverages Azure OpenAI and Azure AI Document Intelligence in a hybrid approach by combining Optical Character Recognition (OCR) and multi-modal Large Language Model (LLM) to extract information from documents to provide insights without pre-training including text documents, handwritten text, charts, graphs, tables, and form fields.
-- [Solution Accelerator](https://github.com/microsoft/Document-Knowledge-Mining-Solution-Accelerator)
+### Development
 
-### Multi-Agent Custom Automation Engine
-This Solution Accelerator is an AI-driven orchestration system that manages a group of AI agents to accomplish tasks based on user input. Powered by AutoGen, Azure OpenAI, Cosmos, and infrastructure services, it provides a ready to go application to use as a reference, allowing you to hit the ground running.
-- [Solution Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
+To run the project locally in development mode:
+
+```bash
+npm run dev
+```
+
+This will start the development server, typically at `http://localhost:5173`. The page will automatically reload when you make changes to the code.
+
+### Building
+
+To build the project for production:
+
+```bash
+npm run build
+```
+
+This creates an optimized production build in the `dist/` directory.
+
+### Preview Build
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## Live Demo
+
+Access the live version of the application at:
+**[https://cuddly-adventure-3j22l89.pages.github.io/](https://cuddly-adventure-3j22l89.pages.github.io/)**
+
+## Project Structure
+
+```
+src/
+├── components/          # React components
+│   ├── Header/         # Navigation and header components
+│   ├── HeroSection/    # Main hero section
+│   ├── FeaturedSection/ # Featured accelerators showcase
+│   ├── DifferentiatorSection/ # Solution differentiators
+│   ├── HowItWorksSection/ # Process explanation
+│   ├── SuccessStoriesSection/ # Customer success stories
+│   ├── Footer/         # Site footer
+│   └── shared/         # Reusable component utilities
+├── data/               # Static data and generated content
+│   ├── cards/          # Individual accelerator JSON files
+│   └── generated/      # Build-time generated data
+├── hooks/              # Custom React hooks
+├── utils/              # Utility functions and helpers
+├── types/              # TypeScript type definitions
+└── assets/             # Images, icons, and static assets
+```
+
+## Key Components
+
+- **GsaCard**: Accelerator card component with hover effects and responsive design
+- **Navigation**: Sticky navigation with smooth scrolling and deep linking
+- **Search & Filters**: Advanced filtering by categories, solution areas, and technologies
+- **Responsive Grid**: Adaptive layout system for different screen sizes
+
+## Development Workflow
+
+1. **Feature Development**: Create feature branches from main
+2. **Testing**: Ensure all functionality works across browsers and devices
+3. **Code Quality**: Follow TypeScript best practices and component architecture
+4. **Performance**: Monitor bundle size and loading performance
+5. **Accessibility**: Maintain WCAG compliance standards
+
+## Contributing
 
 
-## Business AI Transformation Accelerators
 
-### Agent for HR Service
-This solution streamlines HR service workflows with an AI-powered assistant that delivers instant answers, automates record updates, and provides intelligent support, saving time and elevating the employee experience.
-- [Solution Accelerator](https://aka.ms/CSAGoldStandards/AgentForHRS)
+For major changes, please open an issue first to discuss the proposed changes.
 
-### Agent for RFP Response
-This solution increases efficiency and precision by leveraging the deep reasoning capabilities of an autonomous AI Agent to swiftly summarize, analyze, and generate high-quality RFP responses. By integrating Copilot Studio, Power Automate, SharePoint, and Microsoft Teams, this solution streamlines workflows and ensures seamless collaboration across platforms.
-- [Solution Accelerator](https://aka.ms/CSAGoldStandards/AgentForRFPResponse)
+## License
 
-### Agents for Contract Processing
-This solution streamlines contract management by creating, finding, managing and sharing contracts which lead to saving time and resources by automating contract processing workflows. The solution leverages Copilot Studio, Dataverse, Power Automate, SharePoint, Microsoft Teams and a 3rd party e-signature connector.
-- [Solution Accelerator](https://github.com/microsoft/Agent-for-Contract-Processing-Solution-Accelerator)
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Agents for Enhanced Customer Care
-This solution elevates customer care with an AI-powered Contact Center by identifying customer intent, creating dynamic action plans, leveraging organizational knowledge and providing customer specific AI insights which lead to increased customer satisfaction. The solution leverages Copilot Studio, Dynamics 365 Contact Center, Power Platform and Azure Maps.
-- [Solution Accelerator](https://github.com/microsoft/Agents-for-Enhanced-Customer-Care-Solution-Accelerator)
+## Support
 
+For questions or support, please:
+- Open an issue on GitHub
+- Contact the development team
+- Check the documentation in the `/docs` folder
+
+---
+
+**Built with ❤️ by the Microsoft AI Solution Accelerators team**

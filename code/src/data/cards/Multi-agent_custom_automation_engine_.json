@@ -1,0 +1,78 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Multi-Agent Custom Automation Engine",
+  "programmingLanguages": ["Bicep", "TypeScript", "Python"],
+  "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents.",
+  "productsAndServices": [
+    "Azure OpenAI Service",
+    "Azure AI Agent Service",
+    "Semantic Kernel",
+    "Azure Container Apps",
+    "Azure Cosmos DB"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/MultiAgent",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/MultiAgentDeck",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Agentic workflow automaton",
+  "foundryTemplateName": "Multi-agent workflow automation",
+  "useCases": [
+    "Employee On-Boarding and self-service",
+    "Travel Booking and Expense Management",
+    "Supply Chain Planning",
+
+    "Automate employee onboarding with AI-driven workflows",
+    "Streamline travel booking and expense management",
+    "Optimize supply chain planning with AI-powered automation",
+    "Enable multi-agent collaboration for complex task execution",
+    "Improve HR processes with AI-driven task orchestration",
+    "Enhance workflow automation with intelligent agent coordination"
+  ],
+  "keywords": [
+    "Agents",
+    "Agentic",
+    "Multi-agent",
+    "Employee onboarding",
+    "HR",
+    "Data and AI",
+    "Digital and App Innovation",
+    "AI orchestration", 
+    "automated processing", 
+    "task automation", 
+    "GenAI scaling", 
+    "error reduction", 
+    "resource optimization", 
+    "cost efficiency", 
+    "process efficiency", 
+    "scalability"
+
+  ],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2025-03-31",
+  "updatedDate": "2025-08-15"
+}

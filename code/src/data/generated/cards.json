@@ -1,0 +1,1097 @@
+[
+  {
+    "solutionPlays": [
+      "Copilot for M365",
+      "AI Powered Copilot for Business"
+    ],
+    "solutionAreas": [
+      "AI Business Solutions"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Agents for Contract Processing",
+    "programmingLanguages": [
+      "Low Code"
+    ],
+    "excerpt": "Streamline contract processing with an ​AI Agent that helps employees quickly create, find, manage, and share contracts to save time and resources by automating  workflows.​",
+    "productsAndServices": [
+      "Copilot Studio",
+      "Power Platform",
+      "Microsoft Teams",
+      "SharePoint",
+      "Power Automate",
+      "Dataverse"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/AgentsForCP",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/AgentsForCPPitchDeck",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Reprise Click-through Demo",
+        "href": "https://aka.ms/AgentsforCPReprise",
+        "fileType": ""
+      }
+    ],
+    "technicalPattern": "Risk and Compliance",
+    "foundryTemplateName": "",
+    "useCases": [
+      "This solution streamlines contract management by creating",
+      "finding",
+      "managing and sharing contracts which lead to saving time and resources by automating contract processing workflows. The solution leverages Copilot Studio",
+      "Dataverse",
+      "Power Automate",
+      "SharePoint",
+      "Microsoft Teams and a 3rd party e-signature connector.",
+      "Automate contract creation and approval workflows",
+      "Enable quick search and retrieval of contracts using AI-powered indexing",
+      "Streamline contract lifecycle management with automated tracking and notifications",
+      "Integrate e-signature solutions for seamless contract execution",
+      "Ensure compliance by automatically flagging contract discrepancies",
+      "Provide contract analytics and insights for better decision-making"
+    ],
+    "keywords": [
+      "User intent detection in Copilot Studio",
+      "Adaptive Cards in Copilot Studio",
+      "Publishing Copilot agent in Microsoft Teams",
+      "Capturing e-signatures using DocuSign",
+      "Configure tables in Dataverse",
+      "Using SharePoint library for document storage",
+      "Modern Work",
+      "Business Applications"
+    ],
+    "industries": [
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Professional Services"
+    ],
+    "releaseDate": "2024-03-15",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Copilot for M365",
+      "AI Powered Copilot for Business",
+      "Modernize Service"
+    ],
+    "solutionAreas": [
+      "AI Business Solutions"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Agents for Enhanced Customer Care",
+    "programmingLanguages": [
+      "Low Code"
+    ],
+    "excerpt": "Elevate customer care with an AI-powered Contact Center that identifies customer intent, creates dynamic action plans, leverages organizational knowledge and provides customer insights, leading to increased customer satisfaction.",
+    "productsAndServices": [
+      "Copilot Studio",
+      "M365 Copilot",
+      "Dynamics 365",
+      "Dynamics 365 Contact Center",
+      "Dynamics 365 Customer Service",
+      "Power Platform"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/AgentsForEnhancedCustomerCare",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/agentsforecc",
+        "fileType": "ppt"
+      },
+      {
+        "label": "BizApps Demo Hub",
+        "href": "https://aka.ms/agentsforenhancedcustomercare",
+        "fileType": ""
+      }
+    ],
+    "technicalPattern": "Customer Engagement",
+    "foundryTemplateName": "",
+    "useCases": [
+      "This solution elevates customer care with an AI-powered Contact Center by identifying customer intent",
+      "creating dynamic action plans",
+      "leveraging organizational knowledge and providing customer specific AI insights which lead to increased customer satisfaction. The solution leverages Copilot Studio",
+      "Dynamics 365 Contact Center",
+      "Power Platform and Azure Maps.",
+      "Identify customer intent and provide real-time support recommendations",
+      "Automate customer inquiries with AI-powered chatbots",
+      "Generate dynamic action plans based on customer interactions",
+      "Leverage organizational knowledge to improve customer service efficiency",
+      "Provide AI-driven customer insights for personalized engagement",
+      "Optimize contact center operations with predictive analytics"
+    ],
+    "keywords": [
+      "GenAI-based planning and orchestration",
+      "Contact Center",
+      "Dynamically-generated action plans",
+      "orchestrate multi-step tasks",
+      "customer specific AI insights",
+      "Modern Work",
+      "Business Applications"
+    ],
+    "industries": [
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Retail",
+      "Telecommunications"
+    ],
+    "releaseDate": "2024-12-31",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Copilot for M365",
+      "AI Powered Copilot for Business"
+    ],
+    "solutionAreas": [
+      "AI Business Solutions"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Agents for HR Service",
+    "programmingLanguages": [
+      "Low Code"
+    ],
+    "excerpt": "This solution streamlines HR service workflows with an AI-powered assistant that delivers instant answers, automates record updates, and provides intelligent support, saving time and elevating the employee experience.",
+    "productsAndServices": [
+      "Copilot Studio",
+      "Dataverse",
+      "Power Automate",
+      "Microsoft Teams",
+      "SharePoint"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/AgentForHRS",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/AgentForHRSPitchDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Risk and Compliance",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Dataverse",
+      "Power Automate",
+      "Automate HR inquiries with AI-powered responses",
+      "Streamline employee onboarding with guided workflows",
+      "Provide instant answers to HR policy and benefits questions",
+      "Automate record updates for employee information changes",
+      "Enhance employee experience with personalized HR assistance",
+      "Integrate with existing HR systems for seamless data management"
+    ],
+    "keywords": [
+      "User intent detection in Copilot Studio",
+      "Adaptive Cards in Copilot Studio",
+      "Publishing Copilot agent in Microsoft Teams",
+      "Modern Work",
+      "Business Applications",
+      "BizApps",
+      "Service Now",
+      "ServiceNow",
+      "seamless record updates",
+      "automated support",
+      "compliance",
+      "propose a relocation",
+      "compare benefits",
+      "compare compensation",
+      "natural language",
+      "Find & summarize policy info",
+      "Extend and integrate employee data",
+      "Enable autonomous HR support",
+      "Generate HR documents",
+      "Capture employee satisfaction",
+      "Knowledge Retrieval",
+      "Action Execution",
+      "System Integration",
+      "Reduced operational costs",
+      "Faster issue resolution",
+      "Increased HR efficiency"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2024-05-01",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Copilot for M365",
+      "AI Powered Copilot for Business"
+    ],
+    "solutionAreas": [
+      "AI Business Solutions"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Agents for RFP Response",
+    "programmingLanguages": [
+      "Low Code"
+    ],
+    "excerpt": "This solution increases efficiency and precision by leveraging the deep reasoning capabilities of an autonomous AI Agent to swiftly summarize, analyze, and generate high-quality RFP responses. By integrating Copilot Studio, Power Automate, SharePoint, and Microsoft Teams, this solution streamlines workflows and ensures seamless collaboration across platforms.",
+    "productsAndServices": [
+      "Copilot Studio",
+      "Dataverse",
+      "Power Automate",
+      "Microsoft Teams",
+      "SharePoint",
+      "Outlook"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/AgentForRFPResponse",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/AgentForRFPResponsePitchDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Agents for RFP Response",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Automate RFP response generation with AI-driven insights",
+      "Summarize and analyze RFP requirements for quick decision-making",
+      "Enhance collaboration by integrating response workflows across Teams and SharePoint",
+      "Improve response accuracy with AI-powered content validation",
+      "Streamline approval processes with automated workflows in Power Automate",
+      "Generate high-quality proposals using AI-driven content recommendations"
+    ],
+    "keywords": [
+      "AI-powered RFP automation",
+      "Proposal generation",
+      "Business process automation",
+      "Copilot Studio integration",
+      "Enterprise collaboration",
+      "Workflow optimization",
+      "AI-driven content analysis",
+      "Microsoft Teams automation",
+      "SharePoint document management",
+      "Power Automate workflows"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2024-05-01",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents",
+      "Unify your data platform"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Build your own copilot – Client Advisor",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python"
+    ],
+    "excerpt": "Save time and prepare relevant discussion topics for scheduled client meetings with an overview of daily schedules and easy navigation between client profiles and a chat interface.",
+    "productsAndServices": [
+      "Azure AI Search",
+      "Azure OpenAI Service",
+      "Azure Cosmos DB",
+      "Azure SQL Database",
+      "Azure Container Apps"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/BuildYourOwncopilot",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/BYCDeck-ClientAdvisor",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Build your own copilot",
+    "foundryTemplateName": "Improve client meetings with agents",
+    "useCases": [
+      "Improve customer meetings",
+      "Client meeting preparation",
+      "Prepare discussion topics for scheduled client meetings",
+      "Provide AI-driven insights on client profiles and history",
+      "Automate meeting scheduling and reminders",
+      "Generate personalized recommendations based on client interactions",
+      "Enable seamless navigation between client profiles and chat interfaces",
+      "Summarize key takeaways from client meetings for follow-up actions"
+    ],
+    "keywords": [
+      "Meeting preparation",
+      "Data and AI",
+      "Digital and App Innovation",
+      "BYOC"
+    ],
+    "industries": [
+      "Financial Services",
+      "Government",
+      "Professional Services",
+      "Retail",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2024-12-31",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents",
+      "Unify your data platform"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Build your own copilot – Doc Gen",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python"
+    ],
+    "excerpt": "Generate documents such as contracts, invoices, and investment proposals by finding and summarizing relevant information from from your own unstructured data.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Search",
+      "Azure Cosmos DB",
+      "Azure Container Apps"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandard/BuildYourOwnCopilotDocGen",
+    "assets": [
+      {
+        "label": "Walkthrough - Promissory Note",
+        "href": "https://aka.ms/byoc_DocumentGeneration",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Grant Submission",
+        "href": "https://aka.ms/BYCDeck-GrantSubmission",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Invoice",
+        "href": "https://aka.ms/BYCDeck-Invoice",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Investment Proposal",
+        "href": "https://aka.ms/BYCDeck-InvestmentProposal",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Build your own copilot",
+    "foundryTemplateName": "Generate documents from your data",
+    "useCases": [
+      "Contract generation",
+      "Invoice generation",
+      "Create investment proposals",
+      "Automate contract generation based on predefined templates",
+      "Extract and summarize relevant information for invoice creation",
+      "Generate investment proposals using AI-driven insights",
+      "Convert unstructured data into structured documents",
+      "Ensure compliance by validating generated documents against regulations",
+      "Streamline document approval workflows with AI-powered automation"
+    ],
+    "keywords": [
+      "Document generation",
+      "Contract generation/creation",
+      "Data and AI",
+      "Digital and App Innovation",
+      "BYOC"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2024-12-31",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents",
+      "Unify your data platform"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Build your own copilot – Researcher",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python"
+    ],
+    "excerpt": "Create your own conversational AI assistant to easily research relevant articles for any specific topic and aid with document authoring.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Search",
+      "Microsoft Fabric",
+      "Azure App Service",
+      "Prompt Flow"
+    ],
+    "githubUrl": "https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator/tree/byoc-researcher",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/BYCDeck-Researcher",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Build your own copilot",
+    "foundryTemplateName": "Find relevant information for a specific topic",
+    "useCases": [
+      "Research and Development",
+      "Automate research article retrieval based on specific topics",
+      "Summarize key insights from multiple sources for quick review",
+      "Assist in document authoring with AI-generated content suggestions",
+      "Enable semantic search for relevant research materials",
+      "Provide AI-driven analysis of research trends and patterns",
+      "Enhance collaboration by integrating research findings into shared platforms"
+    ],
+    "keywords": [
+      "Data processing",
+      "Semantic Search",
+      "Research analysis",
+      "Data and AI",
+      "Digital and App Innovation",
+      "BYOC"
+    ],
+    "industries": [
+      "Defense and Intelligence",
+      "Education",
+      "Financial Services",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Professional Services"
+    ],
+    "releaseDate": "2024-12-31",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Chat with your data",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python"
+    ],
+    "excerpt": "Create a conversational AI chat experience to extract key information, summarize content, and provide relevant  insights from your unstructured data.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Search",
+      "Azure Cosmos DB",
+      "Azure PostgreSQL",
+      "Azure Container Apps",
+      "Azure Functions",
+      "Azure AI Document Intelligence",
+      "Azure Speech Service"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/ChatWithYourData",
+    "assets": [
+      {
+        "label": "Walkthrough - Energy",
+        "href": "https://aka.ms/CWYDDeck",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Employee Onboarding",
+        "href": "https://aka.ms/CWYDDeck-EmployeeOnboarding",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Contract Review",
+        "href": "https://aka.ms/CWYDDeck-ContractReview",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Financial Advisor",
+        "href": "https://aka.ms/CWYDDeck-FinancialAdvisor",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Chat with your data",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Employee chatbot for HR / benefits​",
+      "Professional Services assistance (Legal/Tax/Audit)​",
+      "Analytics and reporting​",
+      "Contact center agent assistance​",
+      "Employee Assist​",
+      "Extract key information from unstructured data using AI-powered chat",
+      "Summarize lengthy documents for quick review",
+      "Provide AI-driven insights based on conversational queries",
+      "Enable interactive data exploration through natural language queries",
+      "Assist in contract review by highlighting critical clauses",
+      "Improve employee onboarding with AI-powered knowledge retrieval"
+    ],
+    "keywords": [
+      "Internal chatbot",
+      "Data and AI",
+      "Digital and App Innovation",
+      "CWYD"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2023-12-31",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents",
+      "Migrate & modernize your estate"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Modernize your Code",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python"
+    ],
+    "excerpt": "Migrate legacy code to modern languages by leveraging a team of AI agents.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Agent Service",
+      "Semantic Kernel",
+      "Azure Container Apps",
+      "Azure Cosmos DB"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/ModernizeCode",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/ModernizeCodeDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Modernize your code",
+    "foundryTemplateName": "Modernize your code with agents",
+    "useCases": [
+      "Code translation​ \n\nGenerate initial code drafts ​ \n\nCode correction and refactoring​ \n\nRoot-cause analysis​ \n\nGenerate new system designs",
+      "Translate legacy code into modern programming languages",
+      "Generate initial code drafts based on business logic",
+      "Automate code correction and refactoring",
+      "Perform root-cause analysis for debugging and optimization",
+      "Generate new system designs using AI-driven recommendations",
+      "Improve code efficiency with AI-powered transformation tools"
+    ],
+    "keywords": [
+      "Code language modernization",
+      "summary and review of new code",
+      "business logic analysis",
+      "efficient code transformation",
+      "Data and AI",
+      "Digital and App Innovation"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2025-03-15",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Content Processing",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python"
+    ],
+    "excerpt": "Process claims, invoices, contracts and other documents quickly and accurately by extracting information from unstructured content and mapping it to a structured format. This template supports text, images, tables and graphs.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Content Understanding",
+      "Azure Cosmos DB",
+      "Azure Container Apps"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/ContentProcessing",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/ContentProcessingDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Content processing",
+    "foundryTemplateName": "Multi-modal content processing",
+    "useCases": [
+      "Documentation of clinician-patient visit and entering summary into downstream systems",
+      "Claims processing",
+      "Invoice processing",
+      "Contract processing",
+      "ID Verification",
+      "Extract structured data from unstructured documents",
+      "Automate claims processing with AI-driven validation",
+      "Streamline invoice processing by mapping extracted data to financial systems",
+      "Enhance contract review with AI-powered clause analysis",
+      "Perform ID verification using AI-driven document analysis",
+      "Improve documentation workflows with automated content classification"
+    ],
+    "keywords": [
+      "Data ingestion and extraction",
+      "Verification",
+      "Review",
+      "Data and AI",
+      "Digital and App Innovation"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2025-03-31",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Conversation Knowledge Mining",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python",
+      "Jupyter Notebook"
+    ],
+    "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities.",
+    "productsAndServices": [
+      "Azure AI Content Understanding",
+      "Azure OpenAI Service",
+      "Azure AI Search",
+      "Azure AI Agent Service",
+      "Azure Container Apps",
+      "Azure SQL Database",
+      "Azure Functions"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/ConversationKnowledgeMining",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/CKMDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Knowledge Mining",
+    "foundryTemplateName": "Unlock insights from conversational data",
+    "useCases": [
+      "Mining call center conversations for patterns / insights",
+      "Call center ops improvement",
+      "Call transcription and summarization",
+      "Analyze call center conversations for customer sentiment insights",
+      "Summarize customer interactions for improved service efficiency",
+      "Identify recurring issues in customer support calls",
+      "Optimize call center operations with AI-driven analytics",
+      "Automate transcription and summarization of customer conversations",
+      "Provide actionable insights for improving customer engagement"
+    ],
+    "keywords": [
+      "Call Center",
+      "Transcription",
+      "Call summarization",
+      "Content understanding",
+      "Call center operations",
+      "Data and AI",
+      "Digital and App Innovation"
+    ],
+    "industries": [
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Retail",
+      "Telecommunications"
+    ],
+    "releaseDate": "2024-12-01",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents",
+      "Migrate & modernize your estate"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Deploy Your AI Application in Production",
+    "programmingLanguages": [
+      "Bicep",
+      "Shell",
+      "PowerShell",
+      "Python"
+    ],
+    "excerpt": "Create a secure, extensible and integrated environment for deploying and running AI Foundry workloads in production.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Search",
+      "Azure Cosmos DB",
+      "Azure Container Apps"
+    ],
+    "githubUrl": "https://github.com/microsoft/deploy-your-ai-application-in-production",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "http://aka.ms/aitoprodppt",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "",
+    "foundryTemplateName": "Deploy Your AI application in Production",
+    "useCases": [
+      "Create a secure environment for AI workload deployment",
+      "Integrate AI applications with existing enterprise systems",
+      "Optimize AI model performance for production environments",
+      "Ensure compliance with security and governance standards",
+      "Automate monitoring and scaling of AI applications",
+      "Enable seamless collaboration between AI and business teams"
+    ],
+    "keywords": [
+      "Data and AI",
+      "Digital and App Innovation"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2024-03-31",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Document Knowledge Mining",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "C#",
+      "PowerShell"
+    ],
+    "excerpt": "Ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy review.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Search",
+      "Azure AI Document Intelligence"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/DocumentKnowledgeMining",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/DKMDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Knowledge Mining",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Document processing and Knowledge Insights",
+      "Drug Discovery",
+      "Research",
+      "Extract and classify content from large document repositories",
+      "Perform entity mapping for improved document organization",
+      "Analyze key phrases and topics for research insights",
+      "Enable semantic search for quick document retrieval",
+      "Automate document summarization for efficient review",
+      "Enhance multi-modal processing with AI-driven analysis"
+    ],
+    "keywords": [
+      "Data ingestion pipeline",
+      "Entity mapping",
+      "Key phrase and topic analysis",
+      "Semantic search",
+      "Chat with Unstructured (RAG 2.0)",
+      "Image Processing",
+      "Multi-modal processing",
+      "Natural language text analysis and summarization",
+      "Data and AI",
+      "Digital and App Innovation",
+      "Banking",
+      "Data extraction",
+      "data ingestion pipeline",
+      "Entity mapping",
+      "Key phrase and topic analysis",
+      "Semantic search",
+      "Chat with Unstructured (RAG 2.0)",
+      "Image Processing",
+      "Multi-modal processing",
+      "Natural language text analysis and summarization",
+      "Prompt ​suggestion",
+      "ext and document data analysis",
+      "content comparison",
+      "content summarization",
+      "document processing",
+      "image processing",
+      "automated processing",
+      "insight discovery",
+      "handwriting recognition",
+      "charts",
+      "graphs",
+      "tables",
+      "form fields",
+      "DKM",
+      "KM"
+    ],
+    "industries": [
+      "Defense and Intelligence",
+      "Education",
+      "Financial Services",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Retail",
+      "Professional Services"
+    ],
+    "releaseDate": "2024-12-15",
+    "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Multi-Agent Custom Automation Engine",
+    "programmingLanguages": [
+      "Bicep",
+      "TypeScript",
+      "Python"
+    ],
+    "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents.",
+    "productsAndServices": [
+      "Azure OpenAI Service",
+      "Azure AI Agent Service",
+      "Semantic Kernel",
+      "Azure Container Apps",
+      "Azure Cosmos DB"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/MultiAgent",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/MultiAgentDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Agentic workflow automaton",
+    "foundryTemplateName": "Multi-agent workflow automation",
+    "useCases": [
+      "Employee On-Boarding and self-service",
+      "Travel Booking and Expense Management",
+      "Supply Chain Planning",
+      "Automate employee onboarding with AI-driven workflows",
+      "Streamline travel booking and expense management",
+      "Optimize supply chain planning with AI-powered automation",
+      "Enable multi-agent collaboration for complex task execution",
+      "Improve HR processes with AI-driven task orchestration",
+      "Enhance workflow automation with intelligent agent coordination"
+    ],
+    "keywords": [
+      "Agents",
+      "Agentic",
+      "Multi-agent",
+      "Employee onboarding",
+      "HR",
+      "Data and AI",
+      "Digital and App Innovation",
+      "AI orchestration",
+      "automated processing",
+      "task automation",
+      "GenAI scaling",
+      "error reduction",
+      "resource optimization",
+      "cost efficiency",
+      "process efficiency",
+      "scalability"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2025-03-31",
+    "updatedDate": "2025-08-15"
+  }
+]

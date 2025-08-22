@@ -1,0 +1,50 @@
+.navigation-section {
+  /* This section participates in normal flow like the Teams page */
+  background: transparent;
+}
+
+.navigation-sentinel {
+  position: relative;
+  height: 1px; /* minimal, just for IntersectionObserver */
+  margin-top: -1px; /* keep layout unaffected */
+}
+
+.navigation-sticky {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 40; /* below floating dialogs but above content */
+  transition: box-shadow 200ms ease;
+}
+
+.navigation-sticky.is-stuck {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Robust fallback: when JavaScript toggles fixed mode after crossing the sentinel */
+.navigation-sticky.is-fixed {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+}
+
+/* Provide a default nav height in case ResizeObserver hasn't run yet */
+:root {
+  --nav-height: 64px;
+}
+
+/* Utility to apply to content sections so scrollIntoView lands neatly below sticky */
+.section-anchor {
+  scroll-margin-top: var(--nav-height);
+}
+
+.navigation-spacer {
+  height: 0;
+}
+
+.navigation-spacer.active {
+  height: var(--nav-height);
+}
+

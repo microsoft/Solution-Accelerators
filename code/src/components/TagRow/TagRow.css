@@ -1,0 +1,38 @@
+@tailwind components;
+
+@layer components {
+  .tag-row-header {
+    @apply flex justify-between items-center gap-1 max-h-4;
+  }
+
+  .tag-row-scroll {
+    @apply flex flex-nowrap overflow-x-auto gap-2 mt-2 select-none min-h-8 max-h-4;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .tag-row-wrap {
+    @apply flex flex-wrap overflow-visible gap-2 mt-2 select-none min-h-8;
+    max-height: none;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .tag-row-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  .text-neutral-disabled {
+    @apply text-neutral-foreground-disabled;
+  }
+
+  .fade-left {
+    @apply absolute left-0 top-0 bottom-0 w-[60px] pointer-events-none;
+    background: linear-gradient(to left, transparent, var(--colorNeutralBackground1));
+  }
+
+  .fade-right {
+    @apply absolute right-0 top-0 bottom-0 w-[60px] pointer-events-none;
+    background: linear-gradient(to right, transparent, var(--colorNeutralBackground1));
+  }
+} 

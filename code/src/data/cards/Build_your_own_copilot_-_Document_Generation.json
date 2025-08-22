@@ -1,0 +1,81 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents",
+    "Unify your data platform"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Build your own copilot – Doc Gen",
+  "programmingLanguages": ["Bicep", "TypeScript", "Python"],
+  "excerpt": "Generate documents such as contracts, invoices, and investment proposals by finding and summarizing relevant information from from your own unstructured data.",
+  "productsAndServices": [
+    "Azure OpenAI Service",
+    "Azure AI Search",
+    "Azure Cosmos DB",
+    "Azure Container Apps"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandard/BuildYourOwnCopilotDocGen",
+  "assets": [
+    {
+      "label": "Walkthrough - Promissory Note",
+      "href": "https://aka.ms/byoc_DocumentGeneration",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Grant Submission",
+      "href": "https://aka.ms/BYCDeck-GrantSubmission",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Invoice",
+      "href": "https://aka.ms/BYCDeck-Invoice",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Investment Proposal",
+      "href": "https://aka.ms/BYCDeck-InvestmentProposal",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Build your own copilot",
+  "foundryTemplateName": "Generate documents from your data",
+  "useCases": [
+    "Contract generation",
+    "Invoice generation",
+    "Create investment proposals",
+
+    "Automate contract generation based on predefined templates",
+    "Extract and summarize relevant information for invoice creation",
+    "Generate investment proposals using AI-driven insights",
+    "Convert unstructured data into structured documents",
+    "Ensure compliance by validating generated documents against regulations",
+    "Streamline document approval workflows with AI-powered automation"
+  ],
+  "keywords": [
+    "Document generation",
+    "Contract generation/creation",
+            "Data and AI",
+    "Digital and App Innovation",
+"BYOC"
+  ],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2024-12-31",
+  "updatedDate": "2025-08-15"
+}

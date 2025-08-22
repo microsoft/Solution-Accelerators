@@ -1,0 +1,67 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Content Processing",
+  "programmingLanguages": ["Bicep", "TypeScript", "Python"],
+  "excerpt": "Process claims, invoices, contracts and other documents quickly and accurately by extracting information from unstructured content and mapping it to a structured format. This template supports text, images, tables and graphs.",
+  "productsAndServices": [
+    "Azure OpenAI Service",
+    "Azure AI Content Understanding",
+    "Azure Cosmos DB",
+    "Azure Container Apps"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/ContentProcessing",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/ContentProcessingDeck",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Content processing",
+  "foundryTemplateName": "Multi-modal content processing",
+  "useCases": [
+    "Documentation of clinician-patient visit and entering summary into downstream systems",
+    "Claims processing",
+    "Invoice processing",
+    "Contract processing",
+    "ID Verification",
+
+    "Extract structured data from unstructured documents",
+    "Automate claims processing with AI-driven validation",
+    "Streamline invoice processing by mapping extracted data to financial systems",
+    "Enhance contract review with AI-powered clause analysis",
+    "Perform ID verification using AI-driven document analysis",
+    "Improve documentation workflows with automated content classification"
+  ],
+  "keywords": [
+    "Data ingestion and extraction",
+    "Verification",
+    "Review",
+        "Data and AI",
+    "Digital and App Innovation"
+  ],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2025-03-31",
+  "updatedDate": "2025-08-15"
+}

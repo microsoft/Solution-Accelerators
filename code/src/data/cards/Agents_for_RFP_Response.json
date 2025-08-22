@@ -1,0 +1,64 @@
+{
+  "solutionPlays": ["Copilot for M365", "AI Powered Copilot for Business"],
+  "solutionAreas": ["AI Business Solutions"],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Agents for RFP Response",
+  "programmingLanguages": ["Low Code"],
+  "excerpt": "This solution increases efficiency and precision by leveraging the deep reasoning capabilities of an autonomous AI Agent to swiftly summarize, analyze, and generate high-quality RFP responses. By integrating Copilot Studio, Power Automate, SharePoint, and Microsoft Teams, this solution streamlines workflows and ensures seamless collaboration across platforms.",
+  "productsAndServices": [
+    "Copilot Studio", 
+    "Dataverse", 
+    "Power Automate", 
+    "Microsoft Teams", 
+    "SharePoint",
+    "Outlook"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/AgentForRFPResponse",
+  "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/AgentForRFPResponsePitchDeck",
+        "fileType": "pptx"
+      }
+  ],
+  "technicalPattern": "Agents for RFP Response",
+  "foundryTemplateName": "",
+  "useCases": [
+    "Automate RFP response generation with AI-driven insights",
+    "Summarize and analyze RFP requirements for quick decision-making",
+    "Enhance collaboration by integrating response workflows across Teams and SharePoint",
+    "Improve response accuracy with AI-powered content validation",
+    "Streamline approval processes with automated workflows in Power Automate",
+    "Generate high-quality proposals using AI-driven content recommendations"
+  ],
+  "keywords": [
+    "AI-powered RFP automation",
+    "Proposal generation",
+    "Business process automation",
+    "Copilot Studio integration",
+    "Enterprise collaboration",
+    "Workflow optimization",
+    "AI-driven content analysis",
+    "Microsoft Teams automation",
+    "SharePoint document management",
+    "Power Automate workflows"
+  ],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2024-05-01",
+  "updatedDate": "2025-08-15"
+}

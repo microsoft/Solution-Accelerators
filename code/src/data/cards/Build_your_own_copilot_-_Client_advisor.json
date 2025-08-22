@@ -1,0 +1,57 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents",
+    "Unify your data platform"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Build your own copilot – Client Advisor",
+  "programmingLanguages": ["Bicep", "TypeScript", "Python"],
+  "excerpt": "Save time and prepare relevant discussion topics for scheduled client meetings with an overview of daily schedules and easy navigation between client profiles and a chat interface.",
+  "productsAndServices": [
+    "Azure AI Search",
+    "Azure OpenAI Service",
+    "Azure Cosmos DB",
+    "Azure SQL Database",
+    "Azure Container Apps"
+  ],
+  "githubUrl": "https://aka.ms/CSAGoldStandards/BuildYourOwncopilot",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/BYCDeck-ClientAdvisor",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Build your own copilot",
+  "foundryTemplateName": "Improve client meetings with agents",
+  "useCases": [
+    "Improve customer meetings",
+    "Client meeting preparation",
+
+    "Prepare discussion topics for scheduled client meetings",
+    "Provide AI-driven insights on client profiles and history",
+    "Automate meeting scheduling and reminders",
+    "Generate personalized recommendations based on client interactions",
+    "Enable seamless navigation between client profiles and chat interfaces",
+    "Summarize key takeaways from client meetings for follow-up actions"
+  ],
+  "keywords": [
+    "Meeting preparation",
+    "Data and AI",
+    "Digital and App Innovation",
+"BYOC"
+  ],
+  "industries": [
+    "Financial Services", 
+    "Government", 
+    "Professional Services", 
+    "Retail", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2024-12-31",
+  "updatedDate": "2025-08-15"
+}

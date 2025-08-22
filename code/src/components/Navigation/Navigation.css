@@ -1,0 +1,79 @@
+/* Navigation component styles */
+.navigation-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  transform: translateY(0);
+  transition: transform 300ms ease;
+  z-index: 50;
+}
+
+.navigation-header.hidden {
+  transform: translateY(-100%);
+}
+
+.navigation-container {
+  max-width: 80rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.navigation-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 4rem;
+}
+
+.desktop-nav {
+  display: flex;
+}
+
+.mobile-nav {
+  display: none;
+}
+
+.feedback-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.hamburger-button {
+  min-width: auto;
+  padding: 0.5rem;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 768px) {
+  .desktop-nav {
+    display: none;
+  }
+  
+  .mobile-nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .feedback-button .feedback-text-full {
+    display: none;
+  }
+  
+  .feedback-button .feedback-text-mobile {
+    display: inline;
+  }
+}
+
+@media (min-width: 769px) {
+  .feedback-button .feedback-text-full {
+    display: inline;
+  }
+  
+  .feedback-button .feedback-text-mobile {
+    display: none;
+  }
+} 

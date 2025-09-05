@@ -11,8 +11,8 @@
   "programmingLanguages": ["Bicep", "TypeScript", "Python"],
   "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents.",
   "productsAndServices": [
-    "Azure OpenAI Service",
-    "Azure AI Agent Service",
+    "Azure AI Foundry Models",
+    "Azure AI Foundry Agent Service",
     "Semantic Kernel",
     "Azure Container Apps",
     "Azure Cosmos DB"

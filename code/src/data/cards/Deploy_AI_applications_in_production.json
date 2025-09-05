@@ -9,7 +9,7 @@
   "programmingLanguages": ["Bicep", "Shell", "PowerShell", "Python"],
   "excerpt": "Create a secure, extensible and integrated environment for deploying and running AI Foundry workloads in production.",
   "productsAndServices": [
-    "Azure OpenAI Service",
+    "Azure AI Foundry Models",
     "Azure AI Search",
     "Azure Cosmos DB",
     "Azure Container Apps"

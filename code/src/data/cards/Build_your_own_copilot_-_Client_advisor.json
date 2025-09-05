@@ -13,7 +13,7 @@
   "excerpt": "Save time and prepare relevant discussion topics for scheduled client meetings with an overview of daily schedules and easy navigation between client profiles and a chat interface.",
   "productsAndServices": [
     "Azure AI Search",
-    "Azure OpenAI Service",
+    "Azure AI Foundry Models",
     "Azure Cosmos DB",
     "Azure SQL Database",
     "Azure Container Apps"

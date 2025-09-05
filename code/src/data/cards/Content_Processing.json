@@ -11,7 +11,7 @@
   "programmingLanguages": ["Bicep", "TypeScript", "Python"],
   "excerpt": "Process claims, invoices, contracts and other documents quickly and accurately by extracting information from unstructured content and mapping it to a structured format. This template supports text, images, tables and graphs.",
   "productsAndServices": [
-    "Azure OpenAI Service",
+    "Azure AI Foundry Models",
     "Azure AI Content Understanding",
     "Azure Cosmos DB",
     "Azure Container Apps"

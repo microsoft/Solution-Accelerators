@@ -12,9 +12,9 @@
   "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities.",
   "productsAndServices": [
     "Azure AI Content Understanding",
-    "Azure OpenAI Service",
+    "Azure AI Foundry Models",
     "Azure AI Search",
-    "Azure AI Agent Service",
+    "Azure AI Foundry Agent Service",
     "Azure Container Apps", 
     "Azure SQL Database", 
     "Azure Functions"

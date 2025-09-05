@@ -12,10 +12,11 @@
   "programmingLanguages": ["Bicep", "TypeScript", "Python"],
   "excerpt": "Generate documents such as contracts, invoices, and investment proposals by finding and summarizing relevant information from from your own unstructured data.",
   "productsAndServices": [
-    "Azure OpenAI Service",
+    "Azure AI Foundry Models",
     "Azure AI Search",
     "Azure Cosmos DB",
-    "Azure Container Apps"
+    "Azure Container Apps",
+    "Azure AI Services"
   ],
   "githubUrl": "https://aka.ms/CSAGoldStandard/BuildYourOwnCopilotDocGen",
   "assets": [

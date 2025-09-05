@@ -12,7 +12,7 @@
   "programmingLanguages": ["Bicep", "TypeScript", "Python"],
   "excerpt": "Create your own conversational AI assistant to easily research relevant articles for any specific topic and aid with document authoring.",
   "productsAndServices": [
-    "Azure OpenAI Service",
+    "Azure AI Foundry Models",
     "Azure AI Search",
     "Microsoft Fabric",
     "Azure App Service", 

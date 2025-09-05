@@ -12,8 +12,8 @@
   "programmingLanguages": ["Bicep", "TypeScript", "Python"],
   "excerpt": "Migrate legacy code to modern languages by leveraging a team of AI agents.",
   "productsAndServices": [
-    "Azure OpenAI Service",
-    "Azure AI Agent Service",
+    "Azure AI Foundry Models",
+    "Azure AI Foundry Agent Service",
     "Semantic Kernel",
     "Azure Container Apps",
     "Azure Cosmos DB"

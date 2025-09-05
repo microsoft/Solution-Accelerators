@@ -11,7 +11,7 @@
   "programmingLanguages": ["Bicep", "TypeScript", "Python"],
   "excerpt": "Create a conversational AI chat experience to extract key information, summarize content, and provide relevant  insights from your unstructured data.",
   "productsAndServices": [
-    "Azure OpenAI Service",
+    "Azure AI Foundry Models",
     "Azure AI Search",
     "Azure Cosmos DB",
     "Azure PostgreSQL",

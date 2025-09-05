@@ -342,7 +342,7 @@
     "excerpt": "Save time and prepare relevant discussion topics for scheduled client meetings with an overview of daily schedules and easy navigation between client profiles and a chat interface.",
     "productsAndServices": [
       "Azure AI Search",
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure Cosmos DB",
       "Azure SQL Database",
       "Azure Container Apps"
@@ -405,10 +405,11 @@
     ],
     "excerpt": "Generate documents such as contracts, invoices, and investment proposals by finding and summarizing relevant information from from your own unstructured data.",
     "productsAndServices": [
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure AI Search",
       "Azure Cosmos DB",
-      "Azure Container Apps"
+      "Azure Container Apps",
+      "Azure AI Services"
     ],
     "githubUrl": "https://aka.ms/CSAGoldStandard/BuildYourOwnCopilotDocGen",
     "assets": [
@@ -493,7 +494,7 @@
     ],
     "excerpt": "Create your own conversational AI assistant to easily research relevant articles for any specific topic and aid with document authoring.",
     "productsAndServices": [
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure AI Search",
       "Microsoft Fabric",
       "Azure App Service",
@@ -558,7 +559,7 @@
     ],
     "excerpt": "Create a conversational AI chat experience to extract key information, summarize content, and provide relevant  insights from your unstructured data.",
     "productsAndServices": [
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure AI Search",
       "Azure Cosmos DB",
       "Azure PostgreSQL",
@@ -651,8 +652,8 @@
     ],
     "excerpt": "Migrate legacy code to modern languages by leveraging a team of AI agents.",
     "productsAndServices": [
-      "Azure OpenAI Service",
-      "Azure AI Agent Service",
+      "Azure AI Foundry Models",
+      "Azure AI Foundry Agent Service",
       "Semantic Kernel",
       "Azure Container Apps",
       "Azure Cosmos DB"
@@ -723,7 +724,7 @@
     ],
     "excerpt": "Process claims, invoices, contracts and other documents quickly and accurately by extracting information from unstructured content and mapping it to a structured format. This template supports text, images, tables and graphs.",
     "productsAndServices": [
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure AI Content Understanding",
       "Azure Cosmos DB",
       "Azure Container Apps"
@@ -799,9 +800,9 @@
     "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities.",
     "productsAndServices": [
       "Azure AI Content Understanding",
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure AI Search",
-      "Azure AI Agent Service",
+      "Azure AI Foundry Agent Service",
       "Azure Container Apps",
       "Azure SQL Database",
       "Azure Functions"
@@ -869,7 +870,7 @@
     ],
     "excerpt": "Create a secure, extensible and integrated environment for deploying and running AI Foundry workloads in production.",
     "productsAndServices": [
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure AI Search",
       "Azure Cosmos DB",
       "Azure Container Apps"
@@ -936,7 +937,7 @@
     ],
     "excerpt": "Ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy review.",
     "productsAndServices": [
-      "Azure OpenAI Service",
+      "Azure AI Foundry Models",
       "Azure AI Search",
       "Azure AI Document Intelligence"
     ],
@@ -1031,8 +1032,8 @@
     ],
     "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents.",
     "productsAndServices": [
-      "Azure OpenAI Service",
-      "Azure AI Agent Service",
+      "Azure AI Foundry Models",
+      "Azure AI Foundry Agent Service",
       "Semantic Kernel",
       "Azure Container Apps",
       "Azure Cosmos DB"

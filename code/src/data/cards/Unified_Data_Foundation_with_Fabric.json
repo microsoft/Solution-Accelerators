@@ -1,0 +1,25 @@
+{
+    "solutionPlays": ["Unify your data platform"],
+    "solutionAreas": ["Cloud & AI Platforms"],
+    "stability": "Live",
+    "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+    "accelerator": "Unified Data Foundation with Fabric",
+    "excerpt": "Establish a unified data foundation in Fabric to enable decision making and achieve scalable insights by leveraging the Modern Analytics, AI and Governance framework (MAAG) for your enterprise data assets",
+    "productsAndServices": ["Microsoft Fabric", "OneLake", "Azure Databricks", "Purview"],
+    "programmingLanguages": ["Python", "SQL"],
+    "githubUrl": "https://github.com/microsoft/unified-data-foundation-with-fabric-solution-accelerator",
+    "assets": [
+        {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/UnifiedData_Overview",
+        "fileType": "pptx"
+        }
+    ],
+    "technicalPattern": "Unify your Data",
+    "foundryTemplateName": "",
+    "useCases": ["Sales Analysis", "Data Governance", "Data Integration", "Data Engineering", "Analytics", "AI"],
+    "keywords": ["AI", "data foundation", "modern data platform", "Azure Databricks", "Microsoft Fabric", "OneLake", "Microsoft Purview", "Power BI", "medallion architecture", "data engineering", "python", "pyspark", "jupyter", "azd template", "analytics", "enterprise data", "data mirroring"],
+    "industries": ["Retail"],
+    "releaseDate": "2025-09-26",
+    "updatedDate": "2025-09-26"
+}

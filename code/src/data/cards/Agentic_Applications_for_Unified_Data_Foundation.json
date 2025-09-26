@@ -1,0 +1,25 @@
+{
+  "solutionPlays": ["Unify your data platform", "Innovate with AI apps & agents"],
+  "solutionAreas": ["Cloud & AI Platforms"],
+  "stability": "Live",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Agentic Applications for Unified Data Foundation",
+  "programmingLanguages": ["Python", "SQL"],
+  "excerpt": "Accelerate decision making at scale with secure, agentic AI built on a unified data foundation that unlocks new insights and boosts agility to generate value faster.",
+  "productsAndServices": ["Fabric", "Azure SQL DB", "Azure App Service", "Semantic Kernel"],
+  "githubUrl": "https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/UnifiedDataAgent_Overview",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Unify your Data",
+  "foundryTemplateName": "",
+  "useCases": ["Sales Analysis", "Data Agents", "AI", "Analytics"],
+  "keywords": ["AI", "Azure AI Foundry", "Azure SQL DB", "Microsoft Fabric", "analytics", "Semantic Kernel", "enterprise data", "data agent", "agentic AI", "sql", "azd template"],
+  "industries": ["Retail"],
+  "releaseDate": "2025-09-26",
+  "updatedDate": "2025-09-26"
+}

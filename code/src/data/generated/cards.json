@@ -1,6 +1,67 @@
 [
   {
     "solutionPlays": [
+      "Unify your data platform",
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Agentic Applications for Unified Data Foundation",
+    "programmingLanguages": [
+      "Python",
+      "SQL"
+    ],
+    "excerpt": "Accelerate decision making at scale with secure, agentic AI built on a unified data foundation that unlocks new insights and boosts agility to generate value faster.",
+    "productsAndServices": [
+      "Fabric",
+      "Azure SQL DB",
+      "Azure App Service",
+      "Semantic Kernel"
+    ],
+    "githubUrl": "https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/UnifiedDataAgent_Overview",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Unify your Data",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Sales Analysis",
+      "Data Agents",
+      "AI",
+      "Analytics"
+    ],
+    "keywords": [
+      "AI",
+      "Azure AI Foundry",
+      "Azure SQL DB",
+      "Microsoft Fabric",
+      "analytics",
+      "Semantic Kernel",
+      "enterprise data",
+      "data agent",
+      "agentic AI",
+      "sql",
+      "azd template"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "releaseDate": "2025-09-26",
+    "updatedDate": "2025-09-26"
+  },
+  {
+    "solutionPlays": [
       "Copilot for M365",
       "AI Powered Copilot for Business"
     ],
@@ -1094,5 +1155,73 @@
     ],
     "releaseDate": "2025-03-31",
     "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Unify your data platform"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "Multi-agent Custom Automation Engine",
+      "Content Processing",
+      "Conversation Knowledge Mining"
+    ],
+    "accelerator": "Unified Data Foundation with Fabric",
+    "excerpt": "Establish a unified data foundation in Fabric to enable decision making and achieve scalable insights by leveraging the Modern Analytics, AI and Governance framework (MAAG) for your enterprise data assets",
+    "productsAndServices": [
+      "Microsoft Fabric",
+      "OneLake",
+      "Azure Databricks",
+      "Purview"
+    ],
+    "programmingLanguages": [
+      "Python",
+      "SQL"
+    ],
+    "githubUrl": "https://github.com/microsoft/unified-data-foundation-with-fabric-solution-accelerator",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/UnifiedData_Overview",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Unify your Data",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Sales Analysis",
+      "Data Governance",
+      "Data Integration",
+      "Data Engineering",
+      "Analytics",
+      "AI"
+    ],
+    "keywords": [
+      "AI",
+      "data foundation",
+      "modern data platform",
+      "Azure Databricks",
+      "Microsoft Fabric",
+      "OneLake",
+      "Microsoft Purview",
+      "Power BI",
+      "medallion architecture",
+      "data engineering",
+      "python",
+      "pyspark",
+      "jupyter",
+      "azd template",
+      "analytics",
+      "enterprise data",
+      "data mirroring"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "releaseDate": "2025-09-26",
+    "updatedDate": "2025-09-26"
   }
 ]

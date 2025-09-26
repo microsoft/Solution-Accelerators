@@ -1,0 +1,39 @@
+{
+  "solutionPlays": ["Innovate with AI apps & agents", "Migrate and modernize your estate"],
+  "solutionAreas": ["Cloud & AI Platforms"],
+  "stability": "",
+  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "accelerator": "Container Migration",
+  "programmingLanguages": ["Python", "Typescript"],
+  "excerpt": "Leverage AI to streamline container platform migration by automating tasks empowering organizations to focus on high-value tasks.",
+  "productsAndServices": ["Azure AI Service", "Azure Cosmos DB", "Azure Container Apps", "Azure Configuration Service"],
+  "githubUrl": "https://github.com/microsoft/Container-Migration-Solution-Accelerator",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/ContainerMigrationDeck",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Modernize your code",
+  "foundryTemplateName": "",
+  "useCases": ["kubernetes container workloads cloud platform migration"],
+  "keywords": ["containers", "migration", "kubernetes", "multi-layer", "multi-agent", "o3", "orchestration", "MCP", "Semantic Kernel", "reasoning", "React"],
+  "industries": [
+    "Automotive", 
+    "Defense and Intelligence", 
+    "Education", 
+    "Energy", 
+    "Financial Services", 
+    "Government", 
+    "Healthcare", 
+    "Industrials and Manufacturing", 
+    "Non-profit", 
+    "Professional Services", 
+    "Retail", 
+    "Telecommunications", 
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2025-09-24",
+  "updatedDate": "2025-09-24"
+}

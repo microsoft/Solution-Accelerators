@@ -59,6 +59,9 @@ jobs:
           name: github-pages
           path: ./code/dist
 
+      - name: Create CNAME file
+        run: echo accelerators.ms > ./code/dist/CNAME  # Replace with your actual domain
+
       - name: Deploy to GitHub Pages
         run: |
             git config --global user.name "github-actions[bot]"

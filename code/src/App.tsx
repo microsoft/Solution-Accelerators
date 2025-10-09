@@ -488,7 +488,7 @@ function App() {
 
         {/* Footer */}
         <Footer
-          headline="Always current. Fully maintained. ###"
+          headline="Always current. Fully maintained."
           content="We're here to help. Whether you're looking for answers, want to share feedback, or just have a question — <span class='footer-nowrap'><a href='mailto:CSAGoldStandards@service.microsoft.com'>Get in touch</a> and we'll connect with you soon.</span>"
           links={footerLinks}
         />

@@ -314,7 +314,7 @@ function App() {
               url: "#accelerators"
             }}
             onNavigate={scrollToSection}
-            videoUrl="https://www.youtube.com/embed/h8Akr8iDims"
+            videoUrl="https://www.youtube.com/embed/MaWIr95YAVc"
             videoAutoplay={false}
           />
         </div>

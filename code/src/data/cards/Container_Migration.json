@@ -2,11 +2,11 @@
   "solutionPlays": ["Innovate with AI apps & agents", "Migrate and modernize your estate"],
   "solutionAreas": ["Cloud & AI Platforms"],
   "stability": "Live",
-  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
-  "accelerator": "Container Migration",
+  "key": ["Container-Mi"],
+  "accelerator": "Container-Migration",
   "programmingLanguages": ["Python", "Typescript"],
   "excerpt": "Leverage AI to streamline container platform migration by automating tasks empowering organizations to focus on high-value tasks.",
-  "productsAndServices": ["Azure AI Service", "Azure Cosmos DB", "Azure Container Apps", "Azure Configuration Service"],
+  "productsAndServices": ["Azure AI Services", "Azure Cosmos DB", "Azure Container Apps", "Azure Configuration Service"],
   "githubUrl": "https://github.com/microsoft/Container-Migration-Solution-Accelerator",
   "assets": [
     {

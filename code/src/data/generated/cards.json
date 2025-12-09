@@ -17,7 +17,7 @@
     "programmingLanguages": [
       "Python",
       "SQL",
-      "Typescript"
+      "TypeScript"
     ],
     "excerpt": "Accelerate decision making at scale with secure, agentic AI built on a unified data foundation that unlocks new insights and boosts agility to generate value faster.",
     "productsAndServices": [
@@ -27,7 +27,7 @@
       "Semantic Kernel",
       "Azure App Service"
     ],
-    "githubUrl": "https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator",
+    "githubUrl": "https://aka.ms/UnifiedDataAgent",
     "assets": [
       {
         "label": "Walkthrough",
@@ -217,72 +217,6 @@
   },
   {
     "solutionPlays": [
-      "Innovate with AI apps & agents",
-      "Unify your data platform"
-    ],
-    "solutionAreas": [
-      "Cloud & AI Platforms"
-    ],
-    "stability": "Live",
-    "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
-    ],
-    "accelerator": "Build your own copilot – Researcher",
-    "programmingLanguages": [
-      "Bicep",
-      "TypeScript",
-      "Python"
-    ],
-    "excerpt": "Create your own conversational AI assistant to easily research relevant articles for any specific topic and aid with document authoring.",
-    "productsAndServices": [
-      "Azure AI Foundry Models",
-      "Azure AI Search",
-      "Microsoft Fabric",
-      "Azure App Service",
-      "Prompt Flow"
-    ],
-    "githubUrl": "https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator/tree/byoc-researcher",
-    "assets": [
-      {
-        "label": "Walkthrough",
-        "href": "https://aka.ms/BYCDeck-Researcher",
-        "fileType": "pptx"
-      }
-    ],
-    "technicalPattern": "Build your own copilot",
-    "foundryTemplateName": "Find relevant information for a specific topic",
-    "useCases": [
-      "Research and Development",
-      "Automate research article retrieval based on specific topics",
-      "Summarize key insights from multiple sources for quick review",
-      "Assist in document authoring with AI-generated content suggestions",
-      "Enable semantic search for relevant research materials",
-      "Provide AI-driven analysis of research trends and patterns",
-      "Enhance collaboration by integrating research findings into shared platforms"
-    ],
-    "keywords": [
-      "Data processing",
-      "Semantic Search",
-      "Research analysis",
-      "Data and AI",
-      "Digital and App Innovation",
-      "BYOC"
-    ],
-    "industries": [
-      "Defense and Intelligence",
-      "Education",
-      "Financial Services",
-      "Healthcare",
-      "Industrials and Manufacturing",
-      "Professional Services"
-    ],
-    "releaseDate": "2024-12-31",
-    "updatedDate": "2025-08-15"
-  },
-  {
-    "solutionPlays": [
       "Innovate with AI apps & agents"
     ],
     "solutionAreas": [
@@ -461,7 +395,7 @@
     "accelerator": "Container-Migration",
     "programmingLanguages": [
       "Python",
-      "Typescript"
+      "TypeScript"
     ],
     "excerpt": "Leverage AI to streamline container platform migration by automating tasks empowering organizations to focus on high-value tasks.",
     "productsAndServices": [
@@ -660,6 +594,70 @@
   },
   {
     "solutionPlays": [
+      "Innovate with AI Platform",
+      "Build and Modernize Apps"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "customer-chatbot"
+    ],
+    "accelerator": "Customer Chatbot",
+    "featured": false,
+    "excerpt": "Create a customer chatbot that enables natural interactions for external customers, provides real-time assistance, and improves overall customer satisfaction leveraging AI.",
+    "productsAndServices": [
+      "Microsoft Foundry",
+      "Azure OpenAI Service",
+      "Foundry IQ",
+      "Microsoft Agent Service",
+      "Azure Cosmos DB",
+      "Azure App Service"
+    ],
+    "programmingLanguages": [
+      "Python",
+      "React",
+      "TypeScript"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/CustomerChatbot",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/CustomerChatbotDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Customer Chatbot",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Enable Retail product discovery through AI powered chat ",
+      "Extract key product information from unstructured data using AI-powered chat",
+      "Provide relevant information about company policy for product return",
+      "Provide AI-driven chat response based on conversational queries",
+      "Enable interactive data exploration through natural language queries",
+      "Improve customer interaction with AI-powered knowledge retrieval"
+    ],
+    "keywords": [
+      "Customer chatbot",
+      "Data and AI",
+      "Digital and App Innovation",
+      "Hero Demo",
+      "Product Discovery",
+      "Customer Interaction",
+      "Multiagent",
+      "Agent Framework",
+      "AI Powered Conversation",
+      "Conversational AI"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "releaseDate": "2025-12-08",
+    "updatedDate": "2025-12-08"
+  },
+  {
+    "solutionPlays": [
       "Innovate with AI apps & agents",
       "Migrate & modernize your estate"
     ],
@@ -724,102 +722,6 @@
       "Media and Entertainment"
     ],
     "releaseDate": "2024-03-31",
-    "updatedDate": "2025-08-15"
-  },
-  {
-    "solutionPlays": [
-      "Innovate with AI apps & agents"
-    ],
-    "solutionAreas": [
-      "Cloud & AI Platforms"
-    ],
-    "stability": "Live",
-    "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
-    ],
-    "accelerator": "Document Knowledge Mining",
-    "programmingLanguages": [
-      "Bicep",
-      "TypeScript",
-      "C#",
-      "PowerShell"
-    ],
-    "excerpt": "Ingest, extract, and classify content from a high volume of assets to gain deeper insights and generate relevant suggestions for quick and easy review.",
-    "productsAndServices": [
-      "Azure AI Foundry Models",
-      "Azure AI Search",
-      "Azure AI Document Intelligence"
-    ],
-    "githubUrl": "https://aka.ms/CSAGoldStandards/DocumentKnowledgeMining",
-    "assets": [
-      {
-        "label": "Walkthrough",
-        "href": "https://aka.ms/DKMDeck",
-        "fileType": "pptx"
-      }
-    ],
-    "technicalPattern": "Knowledge Mining",
-    "foundryTemplateName": "",
-    "useCases": [
-      "Document processing and Knowledge Insights",
-      "Drug Discovery",
-      "Research",
-      "Extract and classify content from large document repositories",
-      "Perform entity mapping for improved document organization",
-      "Analyze key phrases and topics for research insights",
-      "Enable semantic search for quick document retrieval",
-      "Automate document summarization for efficient review",
-      "Enhance multi-modal processing with AI-driven analysis"
-    ],
-    "keywords": [
-      "Data ingestion pipeline",
-      "Entity mapping",
-      "Key phrase and topic analysis",
-      "Semantic search",
-      "Chat with Unstructured (RAG 2.0)",
-      "Image Processing",
-      "Multi-modal processing",
-      "Natural language text analysis and summarization",
-      "Data and AI",
-      "Digital and App Innovation",
-      "Banking",
-      "Data extraction",
-      "data ingestion pipeline",
-      "Entity mapping",
-      "Key phrase and topic analysis",
-      "Semantic search",
-      "Chat with Unstructured (RAG 2.0)",
-      "Image Processing",
-      "Multi-modal processing",
-      "Natural language text analysis and summarization",
-      "Prompt ​suggestion",
-      "ext and document data analysis",
-      "content comparison",
-      "content summarization",
-      "document processing",
-      "image processing",
-      "automated processing",
-      "insight discovery",
-      "handwriting recognition",
-      "charts",
-      "graphs",
-      "tables",
-      "form fields",
-      "DKM",
-      "KM"
-    ],
-    "industries": [
-      "Defense and Intelligence",
-      "Education",
-      "Financial Services",
-      "Healthcare",
-      "Industrials and Manufacturing",
-      "Retail",
-      "Professional Services"
-    ],
-    "releaseDate": "2024-12-15",
     "updatedDate": "2025-08-15"
   },
   {

@@ -16,6 +16,7 @@
     "accelerator": "Agentic Applications for Unified Data Foundation",
     "programmingLanguages": [
       "Python",
+      "C#",
       "SQL",
       "TypeScript"
     ],
@@ -807,6 +808,78 @@
     ],
     "releaseDate": "2025-03-31",
     "updatedDate": "2025-08-15"
+  },
+  {
+    "solutionPlays": [
+      "Unify your data platform"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "real-time-intel-for-ops"
+    ],
+    "accelerator": "Real-Time Intelligence for Operations",
+    "featured": false,
+    "programmingLanguages": [
+      "Python",
+      "KQL",
+      "PowerShell",
+      "Bicep"
+    ],
+    "excerpt": "Harness Real-Time Intelligence on the unified data foundation with Microsoft Fabric to minimize downtime, maximize asset productivity, and optimize operations.",
+    "productsAndServices": [
+      "Microsoft Fabric",
+      "OneLake",
+      "Real-Time Intelligence",
+      "Fabric Data Agent",
+      "Eventstream in Microsoft Fabric",
+      "Eventhouse in Microsoft Fabric",
+      "Azure Event Hubs",
+      "Fabric Activator"
+    ],
+    "githubUrl": "https://aka.ms/RTIOps",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/RTIOps_Overview",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Unify your Data",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Manufacturing",
+      "Operations",
+      "Data Agents",
+      "AI",
+      "Analytics",
+      "Real-Time Intelligence"
+    ],
+    "keywords": [
+      "AI",
+      "Real-Time Intelligence",
+      "Microsoft Fabric",
+      "OneLake",
+      "analytics",
+      "enterprise data",
+      "data agent",
+      "agentic AI",
+      "kql",
+      "azd template",
+      "Eventstream in Microsoft Fabric",
+      "Eventhouse in Microsoft Fabric",
+      "Fabric Activator",
+      "Azure Event Hubs",
+      "operational data",
+      "real-time simulator"
+    ],
+    "industries": [
+      "Industrials and Manufacturing"
+    ],
+    "releaseDate": "2025-12-10",
+    "updatedDate": "2025-12-10"
   },
   {
     "solutionPlays": [

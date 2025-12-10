@@ -4,7 +4,7 @@
   "stability": "Live",
   "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
   "accelerator": "Agentic Applications for Unified Data Foundation",
-  "programmingLanguages": ["Python", "SQL", "TypeScript"],
+  "programmingLanguages": ["Python", "C#", "SQL", "TypeScript"],
   "excerpt": "Accelerate decision making at scale with secure, agentic AI built on a unified data foundation that unlocks new insights and boosts agility to generate value faster.",
   "productsAndServices": ["Microsoft Fabric", "SQL DB in Fabric", "Azure AI Foundry", "Semantic Kernel", "Azure App Service"],
   "githubUrl": "https://aka.ms/UnifiedDataAgent",

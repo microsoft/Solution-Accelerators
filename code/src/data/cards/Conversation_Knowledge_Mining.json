@@ -6,15 +6,15 @@
     "Cloud & AI Platforms"
   ],
   "stability": "Live",
-  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
   "accelerator": "Conversation Knowledge Mining",
-  "programmingLanguages": ["Bicep", "TypeScript", "Python", "Jupyter Notebook"],
-  "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities.",
+  "programmingLanguages": ["Python", "TypeScript", "Bicep"],
+  "featured": true,
+  "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities with two use cases for telco and IT helpdesk.",
   "productsAndServices": [
     "Azure AI Content Understanding",
-    "Azure AI Foundry Models",
+    "Azure OpenAI Service",
     "Azure AI Search",
-    "Azure AI Foundry Agent Service",
+    "Azure AI Agent Service",
     "Azure Container Apps", 
     "Azure SQL Database", 
     "Azure Functions"
@@ -23,8 +23,18 @@
   "assets": [
     {
       "label": "Walkthrough",
-      "href": "https://aka.ms/CKMDeck",
+      "href": "https://aka.ms/CKMTelcodeck",
       "fileType": "pptx"
+    },
+    {
+      "label": "IT Helpdesk",
+      "href": "https://aka.ms/CKMITHelpdeskdeck",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Overview Video",
+      "href": "https://aka.ms/SAS_CKM_L200",
+      "fileType": "mp4"
     }
   ],
   "technicalPattern": "Knowledge Mining",
@@ -58,5 +68,5 @@
     "Telecommunications"
   ],
   "releaseDate": "2024-12-01",
-  "updatedDate": "2025-08-15"
+  "updatedDate": "2025-12-17"
 }

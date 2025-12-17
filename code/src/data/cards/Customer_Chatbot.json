@@ -1,0 +1,26 @@
+{
+    "solutionPlays": ["Innovate with AI Platform", "Build and Modernize Apps" ],
+    "solutionAreas": ["Cloud & AI Platforms"],
+    "stability": "Live",
+    "key": ["customer-chatbot"],
+    "accelerator": "Customer Chatbot",
+    "featured": false,
+    "excerpt": "Create a customer chatbot that enables natural interactions for external customers, provides real-time assistance, and improves overall customer satisfaction leveraging AI.",
+    "productsAndServices": ["Microsoft Foundry", "Azure OpenAI Service", "Foundry IQ", "Microsoft Agent Service", "Azure Cosmos DB", "Azure App Service"],
+    "programmingLanguages": ["Python", "React", "TypeScript"],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/CustomerChatbot",
+    "assets": [
+        {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/CustomerChatbotDeck",
+        "fileType": "pptx"
+        }
+    ],
+    "technicalPattern": "Customer Chatbot",
+    "foundryTemplateName": "",
+    "useCases": ["Enable Retail product discovery through AI powered chat ", "Extract key product information from unstructured data using AI-powered chat", "Provide relevant information about company policy for product return", "Provide AI-driven chat response based on conversational queries", "Enable interactive data exploration through natural language queries", "Improve customer interaction with AI-powered knowledge retrieval"],
+    "keywords": [ "Customer chatbot", "Data and AI", "Digital and App Innovation", "Hero Demo", "Product Discovery", "Customer Interaction", "Multiagent", "Agent Framework", "AI Powered Conversation", "Conversational AI"],
+    "industries": ["Retail"],
+    "releaseDate": "2025-12-08",
+    "updatedDate": "2025-12-08"
+}

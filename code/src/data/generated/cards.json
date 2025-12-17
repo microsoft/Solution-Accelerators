@@ -8,23 +8,19 @@
       "Cloud & AI Platforms"
     ],
     "stability": "Live",
-    "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
-    ],
+    "key": "Agentic-Applications-Unified-Data",
     "accelerator": "Agentic Applications for Unified Data Foundation",
     "programmingLanguages": [
       "Python",
       "SQL",
-      "Typescript"
+      "TypeScript"
     ],
-    "excerpt": "Accelerate decision making at scale with secure, agentic AI built on a unified data foundation that unlocks new insights and boosts agility to generate value faster.",
+    "excerpt": "Accelerate decision making at scale with secure, agentic AI built on a unified data foundation with two use cases for sales performance and customer insights.",
     "productsAndServices": [
       "Microsoft Fabric",
       "SQL DB in Fabric",
-      "Azure AI Foundry",
-      "Semantic Kernel",
+      "Microsoft Foundry",
+      "Microsoft Agent Framework",
       "Azure App Service"
     ],
     "githubUrl": "https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator",
@@ -33,23 +29,32 @@
         "label": "Walkthrough",
         "href": "https://aka.ms/UnifiedDataAgent_Overview",
         "fileType": "pptx"
+      },
+      {
+        "label": "Insurance",
+        "href": "https://aka.ms/UnifiedDataAgent_Insurance",
+        "fileType": "pptx"
       }
     ],
     "technicalPattern": "Unify your Data",
-    "foundryTemplateName": "",
+    "foundryTemplateName": "agentic-applications-for-unified-data-foundation",
     "useCases": [
       "Sales Analysis",
+      "Customer Analysis",
+      "Retail",
+      "Insurance",
       "Data Agents",
       "AI",
       "Analytics"
     ],
     "keywords": [
       "AI",
-      "Azure AI Foundry",
+      "Microsoft Foundry",
+      "Microsoft Agent Framework",
       "Azure SQL DB",
       "Microsoft Fabric",
       "analytics",
-      "Semantic Kernel",
+      "App Service",
       "enterprise data",
       "data agent",
       "agentic AI",
@@ -57,10 +62,11 @@
       "azd template"
     ],
     "industries": [
-      "Retail"
+      "Retail",
+      "Financial Services"
     ],
     "releaseDate": "2025-09-26",
-    "updatedDate": "2025-09-26"
+    "updatedDate": "2025-12-17"
   },
   {
     "solutionPlays": [
@@ -596,24 +602,19 @@
       "Cloud & AI Platforms"
     ],
     "stability": "Live",
-    "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
-    ],
     "accelerator": "Conversation Knowledge Mining",
     "programmingLanguages": [
-      "Bicep",
-      "TypeScript",
       "Python",
-      "Jupyter Notebook"
+      "TypeScript",
+      "Bicep"
     ],
-    "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities.",
+    "featured": true,
+    "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities with two use cases for telco and IT helpdesk.",
     "productsAndServices": [
       "Azure AI Content Understanding",
-      "Azure AI Foundry Models",
+      "Azure OpenAI Service",
       "Azure AI Search",
-      "Azure AI Foundry Agent Service",
+      "Azure AI Agent Service",
       "Azure Container Apps",
       "Azure SQL Database",
       "Azure Functions"
@@ -622,8 +623,18 @@
     "assets": [
       {
         "label": "Walkthrough",
-        "href": "https://aka.ms/CKMDeck",
+        "href": "https://aka.ms/CKMTelcodeck",
         "fileType": "pptx"
+      },
+      {
+        "label": "IT Helpdesk",
+        "href": "https://aka.ms/CKMITHelpdeskdeck",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Overview Video",
+        "href": "https://aka.ms/SAS_CKM_L200",
+        "fileType": "mp4"
       }
     ],
     "technicalPattern": "Knowledge Mining",
@@ -656,7 +667,75 @@
       "Telecommunications"
     ],
     "releaseDate": "2024-12-01",
-    "updatedDate": "2025-08-15"
+    "updatedDate": "2025-12-17"
+  },
+  {
+    "solutionPlays": [
+      "Protect Cloud, AI Platforms, & Apps"
+    ],
+    "solutionAreas": [
+      "Security"
+    ],
+    "stability": "Live",
+    "key": "Data-Agent-Governance-Security",
+    "accelerator": "Data & Agent Governance and Security Accelerator",
+    "programmingLanguages": [
+      "PowerShell",
+      "Bicep"
+    ],
+    "excerpt": "The Data & Agent Governance and Security accelerator helps organizations confidently adopt AI by automating Microsoft Purview and compliance guardrails—capturing prompts and responses, enforcing data protection policies, and streamlining governance across Copilot, Foundry, Fabric, and custom AI agents.",
+    "productsAndServices": [
+      "Purview",
+      "OneLake",
+      "Microsoft Fabric",
+      "Data Security Posture Management For AI",
+      "Defender for AI"
+    ],
+    "githubUrl": "https://aka.ms/DAGSA",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/DAGSAOverview",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Govern AI Data and Agents",
+    "foundryTemplateName": "agentic-applications-for-unified-data-foundation",
+    "useCases": [
+      "AI Application Governance",
+      "Data Governance for Analytics Platforms",
+      "Security & Compliance Enablement",
+      "AI",
+      "Agentic Workflows",
+      "Manufacturing & Operations",
+      "Day 2 Operations / Hardening"
+    ],
+    "keywords": [
+      "AI Security",
+      "AI Governance",
+      "Purview",
+      "Data Security Posture Management for AI",
+      "Defender for AI",
+      "Sensitivity Labels",
+      "Copilot Governance"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2025-11-15",
+    "updatedDate": "2025-11-15"
   },
   {
     "solutionPlays": [

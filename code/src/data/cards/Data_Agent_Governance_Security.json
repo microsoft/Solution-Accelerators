@@ -1,0 +1,25 @@
+{
+  "solutionPlays": ["Protect Cloud, AI Platforms, & Apps"],
+  "solutionAreas": ["Security"],
+  "stability": "Live",
+  "key": "Data-Agent-Governance-Security",
+  "accelerator": "Data & Agent Governance and Security Accelerator",
+  "programmingLanguages": ["PowerShell", "Bicep"],
+  "excerpt": "The Data & Agent Governance and Security accelerator helps organizations confidently adopt AI by automating Microsoft Purview and compliance guardrails—capturing prompts and responses, enforcing data protection policies, and streamlining governance across Copilot, Foundry, Fabric, and custom AI agents.",
+  "productsAndServices": ["Purview", "OneLake", "Microsoft Fabric", "Data Security Posture Management For AI", "Defender for AI"],
+  "githubUrl": "https://aka.ms/DAGSA",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/DAGSAOverview",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Govern AI Data and Agents",
+  "foundryTemplateName": "agentic-applications-for-unified-data-foundation",
+  "useCases": ["AI Application Governance", "Data Governance for Analytics Platforms", "Security & Compliance Enablement", "AI", "Agentic Workflows", "Manufacturing & Operations", "Day 2 Operations / Hardening"],
+  "keywords": ["AI Security", "AI Governance", "Purview", "Data Security Posture Management for AI","Defender for AI","Sensitivity Labels","Copilot Governance"],
+  "industries": ["Automotive", "Defense and Intelligence", "Education", "Energy", "Financial Services", "Government", "Healthcare", "Industrials and Manufacturing", "Non-profit", "Professional Services", "Retail", "Telecommunications", "Media and Entertainment"],
+  "releaseDate": "2025-12-15",
+  "updatedDate": "2025-12-15"
+}

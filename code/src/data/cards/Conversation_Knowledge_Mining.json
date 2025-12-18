@@ -22,7 +22,7 @@
   "githubUrl": "https://aka.ms/CSAGoldStandards/ConversationKnowledgeMining",
   "assets": [
     {
-      "label": "Walkthrough",
+      "label": "Walkthrough - Telco",
       "href": "https://aka.ms/CKMTelcodeck",
       "fileType": "pptx"
     },

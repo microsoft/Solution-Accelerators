@@ -6,16 +6,15 @@
     "Cloud & AI Platforms"
   ],
   "stability": "Live",
-  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
   "accelerator": "Multi-Agent Custom Automation Engine",
-  "programmingLanguages": ["Bicep", "TypeScript", "Python"],
-  "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents.",
+  "featured": true,
+  "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents with multiple use cases: Employee On-Boarding and Self-service, Product Marketing, Customer Retail Remediation, RFP Reviewer",
   "productsAndServices": [
     "Azure AI Foundry Models",
     "Azure AI Foundry Agent Service",
-    "Semantic Kernel",
+    "Agent Framework",
     "Azure Container Apps",
-    "Azure Cosmos DB"
+    "Azure Cosmos DB", "Foundry IQ", "MCP Container"
   ],
   "githubUrl": "https://aka.ms/CSAGoldStandards/MultiAgent",
   "assets": [
@@ -23,6 +22,16 @@
       "label": "Walkthrough",
       "href": "https://aka.ms/MultiAgentDeck",
       "fileType": "pptx"
+    },
+    {
+      "label": "RFP Reviewer",
+      "href": "https://aka.ms/MultiAgent-RFPReviewerDeck",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Overview Video",
+      "href": "https://aka.ms/SAS_Multi-Agent_L200",
+      "fileType": "mp4"
     }
   ],
   "technicalPattern": "Agentic workflow automaton",
@@ -74,5 +83,5 @@
     "Media and Entertainment"
   ],
   "releaseDate": "2025-03-31",
-  "updatedDate": "2025-08-15"
+  "updatedDate": "2025-12-17"
 }

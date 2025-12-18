@@ -12,6 +12,7 @@
     "accelerator": "Agentic Applications for Unified Data Foundation",
     "programmingLanguages": [
       "Python",
+      "C#",
       "SQL",
       "TypeScript"
     ],
@@ -23,7 +24,7 @@
       "Microsoft Agent Framework",
       "Azure App Service"
     ],
-    "githubUrl": "https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator",
+    "githubUrl": "https://aka.ms/UnifiedDataAgent",
     "assets": [
       {
         "label": "Walkthrough",
@@ -223,72 +224,6 @@
   },
   {
     "solutionPlays": [
-      "Innovate with AI apps & agents",
-      "Unify your data platform"
-    ],
-    "solutionAreas": [
-      "Cloud & AI Platforms"
-    ],
-    "stability": "Live",
-    "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
-    ],
-    "accelerator": "Build your own copilot – Researcher",
-    "programmingLanguages": [
-      "Bicep",
-      "TypeScript",
-      "Python"
-    ],
-    "excerpt": "Create your own conversational AI assistant to easily research relevant articles for any specific topic and aid with document authoring.",
-    "productsAndServices": [
-      "Azure AI Foundry Models",
-      "Azure AI Search",
-      "Microsoft Fabric",
-      "Azure App Service",
-      "Prompt Flow"
-    ],
-    "githubUrl": "https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator/tree/byoc-researcher",
-    "assets": [
-      {
-        "label": "Walkthrough",
-        "href": "https://aka.ms/BYCDeck-Researcher",
-        "fileType": "pptx"
-      }
-    ],
-    "technicalPattern": "Build your own copilot",
-    "foundryTemplateName": "Find relevant information for a specific topic",
-    "useCases": [
-      "Research and Development",
-      "Automate research article retrieval based on specific topics",
-      "Summarize key insights from multiple sources for quick review",
-      "Assist in document authoring with AI-generated content suggestions",
-      "Enable semantic search for relevant research materials",
-      "Provide AI-driven analysis of research trends and patterns",
-      "Enhance collaboration by integrating research findings into shared platforms"
-    ],
-    "keywords": [
-      "Data processing",
-      "Semantic Search",
-      "Research analysis",
-      "Data and AI",
-      "Digital and App Innovation",
-      "BYOC"
-    ],
-    "industries": [
-      "Defense and Intelligence",
-      "Education",
-      "Financial Services",
-      "Healthcare",
-      "Industrials and Manufacturing",
-      "Professional Services"
-    ],
-    "releaseDate": "2024-12-31",
-    "updatedDate": "2025-08-15"
-  },
-  {
-    "solutionPlays": [
       "Innovate with AI apps & agents"
     ],
     "solutionAreas": [
@@ -467,7 +402,7 @@
     "accelerator": "Container-Migration",
     "programmingLanguages": [
       "Python",
-      "Typescript"
+      "TypeScript"
     ],
     "excerpt": "Leverage AI to streamline container platform migration by automating tasks empowering organizations to focus on high-value tasks.",
     "productsAndServices": [
@@ -739,6 +674,70 @@
   },
   {
     "solutionPlays": [
+      "Innovate with AI Platform",
+      "Build and Modernize Apps"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "customer-chatbot"
+    ],
+    "accelerator": "Customer Chatbot",
+    "featured": false,
+    "excerpt": "Create a customer chatbot that enables natural interactions for external customers, provides real-time assistance, and improves overall customer satisfaction leveraging AI.",
+    "productsAndServices": [
+      "Microsoft Foundry",
+      "Azure OpenAI Service",
+      "Foundry IQ",
+      "Microsoft Agent Service",
+      "Azure Cosmos DB",
+      "Azure App Service"
+    ],
+    "programmingLanguages": [
+      "Python",
+      "React",
+      "TypeScript"
+    ],
+    "githubUrl": "https://aka.ms/CSAGoldStandards/CustomerChatbot",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/CustomerChatbotDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Customer Chatbot",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Enable Retail product discovery through AI powered chat ",
+      "Extract key product information from unstructured data using AI-powered chat",
+      "Provide relevant information about company policy for product return",
+      "Provide AI-driven chat response based on conversational queries",
+      "Enable interactive data exploration through natural language queries",
+      "Improve customer interaction with AI-powered knowledge retrieval"
+    ],
+    "keywords": [
+      "Customer chatbot",
+      "Data and AI",
+      "Digital and App Innovation",
+      "Hero Demo",
+      "Product Discovery",
+      "Customer Interaction",
+      "Multiagent",
+      "Agent Framework",
+      "AI Powered Conversation",
+      "Conversational AI"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "releaseDate": "2025-12-08",
+    "updatedDate": "2025-12-08"
+  },
+  {
+    "solutionPlays": [
       "Innovate with AI apps & agents",
       "Migrate & modernize your estate"
     ],
@@ -987,6 +986,78 @@
     ],
     "releaseDate": "2025-03-31",
     "updatedDate": "2025-12-17"
+  },
+  {
+    "solutionPlays": [
+      "Unify your data platform"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "real-time-intel-for-ops"
+    ],
+    "accelerator": "Real-Time Intelligence for Operations",
+    "featured": false,
+    "programmingLanguages": [
+      "Python",
+      "KQL",
+      "PowerShell",
+      "Bicep"
+    ],
+    "excerpt": "Harness Real-Time Intelligence on the unified data foundation with Microsoft Fabric to minimize downtime, maximize asset productivity, and optimize operations.",
+    "productsAndServices": [
+      "Microsoft Fabric",
+      "OneLake",
+      "Real-Time Intelligence",
+      "Fabric Data Agent",
+      "Eventstream in Microsoft Fabric",
+      "Eventhouse in Microsoft Fabric",
+      "Azure Event Hubs",
+      "Fabric Activator"
+    ],
+    "githubUrl": "https://aka.ms/RTIOps",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/RTIOps_Overview",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Unify your Data",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Manufacturing",
+      "Operations",
+      "Data Agents",
+      "AI",
+      "Analytics",
+      "Real-Time Intelligence"
+    ],
+    "keywords": [
+      "AI",
+      "Real-Time Intelligence",
+      "Microsoft Fabric",
+      "OneLake",
+      "analytics",
+      "enterprise data",
+      "data agent",
+      "agentic AI",
+      "kql",
+      "azd template",
+      "Eventstream in Microsoft Fabric",
+      "Eventhouse in Microsoft Fabric",
+      "Fabric Activator",
+      "Azure Event Hubs",
+      "operational data",
+      "real-time simulator"
+    ],
+    "industries": [
+      "Industrials and Manufacturing"
+    ],
+    "releaseDate": "2025-12-10",
+    "updatedDate": "2025-12-10"
   },
   {
     "solutionPlays": [

@@ -8,7 +8,7 @@
   "stability": "Live",
   "accelerator": "Multi-Agent Custom Automation Engine",
   "featured": true,
-  "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents with multiple use cases: Employee On-Boarding and Self-service, Product Marketing, Customer Retail Remediation, RFP Reviewer",
+  "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents with multiple use cases: Employee On-Boarding and Self-service, Product Marketing, Customer Retail Remediation, RFP Reviewer, Contract Compliance Reviewer",
   "productsAndServices": [
     "Azure AI Foundry Models",
     "Azure AI Foundry Agent Service",
@@ -26,6 +26,11 @@
     {
       "label": "RFP Reviewer",
       "href": "https://aka.ms/MultiAgent-RFPReviewerDeck",
+      "fileType": "pptx"
+    },
+    {
+      "label": "Contract Compliance Reviewer",
+      "href": "https://aka.ms/MultiAgent-ComplianceReviewerDeck",
       "fileType": "pptx"
     },
     {

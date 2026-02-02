@@ -2,12 +2,13 @@
     "solutionPlays": ["Unify your data platform"],
     "solutionAreas": ["Cloud & AI Platforms"],
     "stability": "Live",
-    "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+    "featured": false,
+    "key": "Unified-Data-Foundation-Fabric",
     "accelerator": "Unified Data Foundation with Fabric",
-    "excerpt": "Establish a unified data foundation in Fabric to enable decision making and achieve scalable insights by leveraging the Modern Analytics, AI and Governance framework (MAAG) for your enterprise data assets",
-    "productsAndServices": ["Microsoft Fabric", "OneLake", "Azure Databricks", "Purview"],
-    "programmingLanguages": ["Python", "SQL"],
-    "githubUrl": "https://github.com/microsoft/unified-data-foundation-with-fabric-solution-accelerator",
+    "excerpt": "Establish a unified data foundation in Fabric to accelerate decisions and insights using Fabric Data Agents, Copilot, and governance on a secure, scalable architecture.",
+    "productsAndServices": ["Microsoft Fabric", "OneLake", "Fabric Data Agent", "Azure Databricks", "Purview", "Copilot for Power BI", "Power BI"],
+    "programmingLanguages": ["Python", "SQL", "PowerShell", "Bicep"],
+    "githubUrl": "https://aka.ms/UnifiedData",
     "assets": [
         {
         "label": "Walkthrough",
@@ -17,9 +18,9 @@
     ],
     "technicalPattern": "Unify your Data",
     "foundryTemplateName": "",
-    "useCases": ["Sales Analysis", "Data Governance", "Data Integration", "Data Engineering", "Analytics", "AI"],
-    "keywords": ["AI", "data foundation", "modern data platform", "Azure Databricks", "Microsoft Fabric", "OneLake", "Microsoft Purview", "Power BI", "medallion architecture", "data engineering", "python", "pyspark", "jupyter", "azd template", "analytics", "enterprise data", "data mirroring"],
+    "useCases": ["Sales Analysis", "AI", "Data Agents", "Analytics", "Data Governance", "Data Integration", "Data Engineering"],
+    "keywords": ["AI", "unified data", "Microsoft Fabric", "OneLake", "analytics", "enterprise data", "data agent", "agentic AI", "SQL", "azd template", "Fabric Data Agent", "Copilot for Power BI", "modern data platform", "Azure Databricks", "Microsoft Purview", "Power BI", "medallion architecture", "data engineering", "python", "pyspark", "jupyter", "data mirroring"],
     "industries": ["Retail"],
     "releaseDate": "2025-09-26",
-    "updatedDate": "2025-09-26"
+    "updatedDate": "2026-01-28"
 }

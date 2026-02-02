@@ -1,0 +1,48 @@
+{
+  "solutionPlays": [
+    "Innovate with AI apps & agents"
+  ],
+  "solutionAreas": [
+    "Cloud & AI Platforms"
+  ],
+  "stability": "Live",
+  "accelerator": "Multi-Agent Content Generation",
+  "programmingLanguages": ["Python", "TypeScript", "Bicep"],
+  "key": "Mult-Agent-Content-Generation",
+  "featured": false,
+  "excerpt": "An AI‑powered multi‑agent, multi-modal accelerator that transforms creative briefs into fast, on‑brand marketing copy and visuals - reducing manual work and accelerating campaign creation.",
+  "productsAndServices": ["Foundry IQ", "Azure OpenAI Service", "Agent Framework","Azure Cosmos DB", "Microsoft Foundry","Azure Container Apps", "Azure Blob Storage"],
+  "githubUrl": "https://aka.ms/ContentGeneration",
+  "assets": [
+    {
+      "label": "Walkthrough",
+      "href": "https://aka.ms/ContentGenerationDeck",
+      "fileType": "pptx"
+    }
+  ],
+  "technicalPattern": "Content Generation",
+  "foundryTemplateName": "",
+  "useCases": [
+    "Marketing Ad Campaign"
+  ],
+  "keywords": [
+    "agents", "agentic", "multi-agent", "multi-modal", "marketing", "campaign", "task automation", "image generation"
+  ],
+  "industries": [
+    "Automotive",
+    "Defense and Intelligence",
+    "Education",
+    "Energy",
+    "Financial Services",
+    "Government",
+    "Healthcare",
+    "Industrials and Manufacturing",
+    "Non-profit",
+    "Professional Services",
+    "Retail",
+    "Telecommunications",
+    "Media and Entertainment"
+  ],
+  "releaseDate": "2026-02-02",
+  "updatedDate": "2026-02-02"
+}

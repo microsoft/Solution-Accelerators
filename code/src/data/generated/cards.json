@@ -12,7 +12,6 @@
     "accelerator": "Agentic Applications for Unified Data Foundation",
     "programmingLanguages": [
       "Python",
-      "C#",
       "SQL",
       "TypeScript"
     ],
@@ -24,7 +23,7 @@
       "Microsoft Agent Framework",
       "Azure App Service"
     ],
-    "githubUrl": "https://aka.ms/UnifiedDataAgent",
+    "githubUrl": "https://github.com/microsoft/agentic-applications-for-unified-data-foundation-solution-accelerator",
     "assets": [
       {
         "label": "Walkthrough",
@@ -128,95 +127,6 @@
       "Government",
       "Professional Services",
       "Retail",
-      "Media and Entertainment"
-    ],
-    "releaseDate": "2024-12-31",
-    "updatedDate": "2025-08-15"
-  },
-  {
-    "solutionPlays": [
-      "Innovate with AI apps & agents",
-      "Unify your data platform"
-    ],
-    "solutionAreas": [
-      "Cloud & AI Platforms"
-    ],
-    "stability": "Live",
-    "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
-    ],
-    "accelerator": "Build your own copilot – Doc Gen",
-    "programmingLanguages": [
-      "Bicep",
-      "TypeScript",
-      "Python"
-    ],
-    "excerpt": "Generate documents such as contracts, invoices, and investment proposals by finding and summarizing relevant information from from your own unstructured data.",
-    "productsAndServices": [
-      "Azure AI Foundry Models",
-      "Azure AI Search",
-      "Azure Cosmos DB",
-      "Azure Container Apps",
-      "Azure AI Services"
-    ],
-    "githubUrl": "https://aka.ms/CSAGoldStandard/BuildYourOwnCopilotDocGen",
-    "assets": [
-      {
-        "label": "Walkthrough - Promissory Note",
-        "href": "https://aka.ms/byoc_DocumentGeneration",
-        "fileType": "pptx"
-      },
-      {
-        "label": "Grant Submission",
-        "href": "https://aka.ms/BYCDeck-GrantSubmission",
-        "fileType": "pptx"
-      },
-      {
-        "label": "Invoice",
-        "href": "https://aka.ms/BYCDeck-Invoice",
-        "fileType": "pptx"
-      },
-      {
-        "label": "Investment Proposal",
-        "href": "https://aka.ms/BYCDeck-InvestmentProposal",
-        "fileType": "pptx"
-      }
-    ],
-    "technicalPattern": "Build your own copilot",
-    "foundryTemplateName": "Generate documents from your data",
-    "useCases": [
-      "Contract generation",
-      "Invoice generation",
-      "Create investment proposals",
-      "Automate contract generation based on predefined templates",
-      "Extract and summarize relevant information for invoice creation",
-      "Generate investment proposals using AI-driven insights",
-      "Convert unstructured data into structured documents",
-      "Ensure compliance by validating generated documents against regulations",
-      "Streamline document approval workflows with AI-powered automation"
-    ],
-    "keywords": [
-      "Document generation",
-      "Contract generation/creation",
-      "Data and AI",
-      "Digital and App Innovation",
-      "BYOC"
-    ],
-    "industries": [
-      "Automotive",
-      "Defense and Intelligence",
-      "Education",
-      "Energy",
-      "Financial Services",
-      "Government",
-      "Healthcare",
-      "Industrials and Manufacturing",
-      "Non-profit",
-      "Professional Services",
-      "Retail",
-      "Telecommunications",
       "Media and Entertainment"
     ],
     "releaseDate": "2024-12-31",
@@ -463,6 +373,73 @@
       "Cloud & AI Platforms"
     ],
     "stability": "Live",
+    "accelerator": "Multi-Agent Content Generation",
+    "programmingLanguages": [
+      "Python",
+      "TypeScript",
+      "Bicep"
+    ],
+    "key": "Mult-Agent-Content-Generation",
+    "featured": false,
+    "excerpt": "An AI‑powered multi‑agent, multi-modal accelerator that transforms creative briefs into fast, on‑brand marketing copy and visuals - reducing manual work and accelerating campaign creation.",
+    "productsAndServices": [
+      "Foundry IQ",
+      "Azure OpenAI Service",
+      "Agent Framework",
+      "Azure Cosmos DB",
+      "Microsoft Foundry",
+      "Azure Container Apps",
+      "Azure Blob Storage"
+    ],
+    "githubUrl": "https://aka.ms/ContentGeneration",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/ContentGenerationDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Content Generation",
+    "foundryTemplateName": "",
+    "useCases": [
+      "Marketing Ad Campaign"
+    ],
+    "keywords": [
+      "agents",
+      "agentic",
+      "multi-agent",
+      "multi-modal",
+      "marketing",
+      "campaign",
+      "task automation",
+      "image generation"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2026-02-02",
+    "updatedDate": "2026-02-02"
+  },
+  {
+    "solutionPlays": [
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
     "key": [
       "Multi-agent Custom Automation Engine",
       "Content Processing",
@@ -606,74 +583,6 @@
   },
   {
     "solutionPlays": [
-      "Protect Cloud, AI Platforms, & Apps"
-    ],
-    "solutionAreas": [
-      "Security"
-    ],
-    "stability": "Live",
-    "key": "Data-Agent-Governance-Security",
-    "accelerator": "Data & Agent Governance and Security Accelerator",
-    "programmingLanguages": [
-      "PowerShell",
-      "Bicep"
-    ],
-    "excerpt": "The Data & Agent Governance and Security accelerator helps organizations confidently adopt AI by automating Microsoft Purview and compliance guardrails—capturing prompts and responses, enforcing data protection policies, and streamlining governance across Copilot, Foundry, Fabric, and custom AI agents.",
-    "productsAndServices": [
-      "Purview",
-      "OneLake",
-      "Microsoft Fabric",
-      "Data Security Posture Management For AI",
-      "Defender for AI"
-    ],
-    "githubUrl": "https://aka.ms/DAGSA",
-    "assets": [
-      {
-        "label": "Walkthrough",
-        "href": "https://aka.ms/DAGSAOverview",
-        "fileType": "pptx"
-      }
-    ],
-    "technicalPattern": "Govern AI Data and Agents",
-    "foundryTemplateName": "agentic-applications-for-unified-data-foundation",
-    "useCases": [
-      "AI Application Governance",
-      "Data Governance for Analytics Platforms",
-      "Security & Compliance Enablement",
-      "AI",
-      "Agentic Workflows",
-      "Manufacturing & Operations",
-      "Day 2 Operations / Hardening"
-    ],
-    "keywords": [
-      "AI Security",
-      "AI Governance",
-      "Purview",
-      "Data Security Posture Management for AI",
-      "Defender for AI",
-      "Sensitivity Labels",
-      "Copilot Governance"
-    ],
-    "industries": [
-      "Automotive",
-      "Defense and Intelligence",
-      "Education",
-      "Energy",
-      "Financial Services",
-      "Government",
-      "Healthcare",
-      "Industrials and Manufacturing",
-      "Non-profit",
-      "Professional Services",
-      "Retail",
-      "Telecommunications",
-      "Media and Entertainment"
-    ],
-    "releaseDate": "2025-12-15",
-    "updatedDate": "2025-12-15"
-  },
-  {
-    "solutionPlays": [
       "Innovate with AI Platform",
       "Build and Modernize Apps"
     ],
@@ -735,6 +644,74 @@
     ],
     "releaseDate": "2025-12-08",
     "updatedDate": "2025-12-08"
+  },
+  {
+    "solutionPlays": [
+      "Protect Cloud, AI Platforms, & Apps"
+    ],
+    "solutionAreas": [
+      "Security"
+    ],
+    "stability": "Live",
+    "key": "Data-Agent-Governance-Security",
+    "accelerator": "Data & Agent Governance and Security",
+    "programmingLanguages": [
+      "PowerShell",
+      "Bicep"
+    ],
+    "excerpt": "Confidently adopt AI by automating Microsoft Purview and compliance guardrails - capturing prompts and responses, enforcing data protection policies, and streamlining governance across Copilot, Foundry, Fabric, and custom AI agents.",
+    "productsAndServices": [
+      "Purview",
+      "OneLake",
+      "Microsoft Fabric",
+      "Data Security Posture Management For AI",
+      "Defender for AI"
+    ],
+    "githubUrl": "https://aka.ms/DAGSA",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/DAGSAOverview",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Govern AI Data and Agents",
+    "foundryTemplateName": "agentic-applications-for-unified-data-foundation",
+    "useCases": [
+      "AI Application Governance",
+      "Data Governance for Analytics Platforms",
+      "Security & Compliance Enablement",
+      "AI",
+      "Agentic Workflows",
+      "Manufacturing & Operations",
+      "Day 2 Operations / Hardening"
+    ],
+    "keywords": [
+      "AI Security",
+      "AI Governance",
+      "Purview",
+      "Data Security Posture Management for AI",
+      "Defender for AI",
+      "Sensitivity Labels",
+      "Copilot Governance"
+    ],
+    "industries": [
+      "Automotive",
+      "Defense and Intelligence",
+      "Education",
+      "Energy",
+      "Financial Services",
+      "Government",
+      "Healthcare",
+      "Industrials and Manufacturing",
+      "Non-profit",
+      "Professional Services",
+      "Retail",
+      "Telecommunications",
+      "Media and Entertainment"
+    ],
+    "releaseDate": "2025-12-15",
+    "updatedDate": "2025-12-15"
   },
   {
     "solutionPlays": [
@@ -910,7 +887,7 @@
     "stability": "Live",
     "accelerator": "Multi-Agent Custom Automation Engine",
     "featured": true,
-    "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents with multiple use cases: Employee On-Boarding and Self-service, Product Marketing, Customer Retail Remediation, RFP Reviewer",
+    "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents with multiple use cases: Employee On-Boarding and Self-service, Product Marketing, Customer Retail Remediation, RFP Reviewer, Contract Compliance Reviewer",
     "productsAndServices": [
       "Azure AI Foundry Models",
       "Azure AI Foundry Agent Service",
@@ -930,6 +907,11 @@
       {
         "label": "RFP Reviewer",
         "href": "https://aka.ms/MultiAgent-RFPReviewerDeck",
+        "fileType": "pptx"
+      },
+      {
+        "label": "Contract Compliance Reviewer",
+        "href": "https://aka.ms/MultiAgent-ComplianceReviewerDeck",
         "fileType": "pptx"
       },
       {
@@ -1067,24 +1049,26 @@
       "Cloud & AI Platforms"
     ],
     "stability": "Live",
-    "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
-    ],
+    "featured": false,
+    "key": "Unified-Data-Foundation-Fabric",
     "accelerator": "Unified Data Foundation with Fabric",
-    "excerpt": "Establish a unified data foundation in Fabric to enable decision making and achieve scalable insights by leveraging the Modern Analytics, AI and Governance framework (MAAG) for your enterprise data assets",
+    "excerpt": "Establish a unified data foundation in Fabric to accelerate decisions and insights using Fabric Data Agents, Copilot, and governance on a secure, scalable architecture.",
     "productsAndServices": [
       "Microsoft Fabric",
       "OneLake",
+      "Fabric Data Agent",
       "Azure Databricks",
-      "Purview"
+      "Purview",
+      "Copilot for Power BI",
+      "Power BI"
     ],
     "programmingLanguages": [
       "Python",
-      "SQL"
+      "SQL",
+      "PowerShell",
+      "Bicep"
     ],
-    "githubUrl": "https://github.com/microsoft/unified-data-foundation-with-fabric-solution-accelerator",
+    "githubUrl": "https://aka.ms/UnifiedData",
     "assets": [
       {
         "label": "Walkthrough",
@@ -1096,19 +1080,28 @@
     "foundryTemplateName": "",
     "useCases": [
       "Sales Analysis",
+      "AI",
+      "Data Agents",
+      "Analytics",
       "Data Governance",
       "Data Integration",
-      "Data Engineering",
-      "Analytics",
-      "AI"
+      "Data Engineering"
     ],
     "keywords": [
       "AI",
-      "data foundation",
-      "modern data platform",
-      "Azure Databricks",
+      "unified data",
       "Microsoft Fabric",
       "OneLake",
+      "analytics",
+      "enterprise data",
+      "data agent",
+      "agentic AI",
+      "SQL",
+      "azd template",
+      "Fabric Data Agent",
+      "Copilot for Power BI",
+      "modern data platform",
+      "Azure Databricks",
       "Microsoft Purview",
       "Power BI",
       "medallion architecture",
@@ -1116,15 +1109,12 @@
       "python",
       "pyspark",
       "jupyter",
-      "azd template",
-      "analytics",
-      "enterprise data",
       "data mirroring"
     ],
     "industries": [
       "Retail"
     ],
     "releaseDate": "2025-09-26",
-    "updatedDate": "2025-09-26"
+    "updatedDate": "2026-01-28"
   }
 ]

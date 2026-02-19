@@ -39,7 +39,7 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
   const thumbnailUrl = `https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`;
   
   // Build the iframe src with autoplay parameter
-  const iframeSrc = `https://www.youtube.com/embed/${videoId}?rel=0autoplay=${autoplay ? '1' : '0'}`;
+  const iframeSrc = `https://www.youtube-nocookie.com/embed/${videoId}?rel=0autoplay=${autoplay ? '1' : '0'}`;
 
   return (
     <div className={`w-full max-w-7xl ${aspectRatio} relative rounded-lg overflow-hidden shadow-lg ${className}`}>

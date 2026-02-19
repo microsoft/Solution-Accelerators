@@ -6,7 +6,7 @@
     "Cloud & AI Platforms"
   ],
   "stability": "Live",
-  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "key": ["chat-with-your-data"],
   "accelerator": "Chat with your data",
   "programmingLanguages": ["Bicep", "TypeScript", "Python"],
   "excerpt": "Create a conversational AI chat experience to extract key information, summarize content, and provide relevant  insights from your unstructured data.",

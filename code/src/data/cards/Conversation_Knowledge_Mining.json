@@ -7,6 +7,7 @@
   ],
   "stability": "Live",
   "accelerator": "Conversation Knowledge Mining",
+  "key": ["conversation-knowledge-mining"],
   "programmingLanguages": ["Python", "TypeScript", "Bicep"],
   "featured": true,
   "excerpt": "Improve contact center efficiency by uncovering insights from large audio and text-based data sets using advanced content understanding capabilities with two use cases for telco and IT helpdesk.",

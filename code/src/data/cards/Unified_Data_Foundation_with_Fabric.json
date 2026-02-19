@@ -3,7 +3,7 @@
     "solutionAreas": ["Cloud & AI Platforms"],
     "stability": "Live",
     "featured": false,
-    "key": "Unified-Data-Foundation-Fabric",
+    "key": ["Unified-Data-Foundation-Fabric"],
     "accelerator": "Unified Data Foundation with Fabric",
     "excerpt": "Establish a unified data foundation in Fabric to accelerate decisions and insights using Fabric Data Agents, Copilot, and governance on a secure, scalable architecture.",
     "productsAndServices": ["Microsoft Fabric", "OneLake", "Fabric Data Agent", "Azure Databricks", "Purview", "Copilot for Power BI", "Power BI"],

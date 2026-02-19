@@ -2,7 +2,7 @@
   "solutionPlays": ["Innovate with AI apps & agents", "Migrate and modernize your estate"],
   "solutionAreas": ["Cloud & AI Platforms"],
   "stability": "Live",
-  "key": ["Container-Mi"],
+  "key": ["container-migration"],
   "accelerator": "Container-Migration",
   "programmingLanguages": ["Python", "TypeScript"],
   "excerpt": "Leverage AI to streamline container platform migration by automating tasks empowering organizations to focus on high-value tasks.",

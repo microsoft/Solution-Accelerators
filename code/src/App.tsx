@@ -134,6 +134,7 @@ const howItWorksSteps = [
 
   // Footer links configuration
   const footerLinks: FooterLink[] = [
+  { text: "Manage Cookies", url: "javascript: manageConsent();" },
   { text: "Sitemap", url: "https://www.microsoft.com/en-us/sitemap" },
   { text: "Contact Microsoft", url: "https://support.microsoft.com/contactus" },
   { text: "Privacy", url: "https://www.microsoft.com/en-us/privacy/privacystatement" },
@@ -430,15 +431,22 @@ function App() {
                 {/* Cards Grid */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4">
                   {filteredCards.length > 0 ? (
-                    filteredCards.map((card, index) => (
-                      <GsaCard
-                        key={index}
-                        {...card}
-                        rowHeightVersion={rowHeightVersion}
-                        excerptHeight={Math.max(...excerptHeights)}
-                        reportExcerptHeight={reportExcerptHeight}
-                      />
-                    ))
+                    filteredCards.map((card, index) => {
+                      const { key: dataKey, ...cardProps } = card as AcceleratorCard & {
+                        key?: string | string[];
+                      };
+                      const reactKey = Array.isArray(dataKey) ? dataKey[0] : dataKey;
+
+                      return (
+                        <GsaCard
+                          key={reactKey ?? card.accelerator ?? index}
+                          {...cardProps}
+                          rowHeightVersion={rowHeightVersion}
+                          excerptHeight={Math.max(...excerptHeights)}
+                          reportExcerptHeight={reportExcerptHeight}
+                        />
+                      );
+                    })
                   ) : (
                     <div className="col-span-full text-center py-8">
                       <Body1>No results found. Try adjusting your filters or search terms.</Body1>

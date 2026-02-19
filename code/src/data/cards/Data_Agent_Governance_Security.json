@@ -2,7 +2,7 @@
   "solutionPlays": ["Protect Cloud, AI Platforms, & Apps"],
   "solutionAreas": ["Security"],
   "stability": "Live",
-  "key": "Data-Agent-Governance-Security",
+  "key": ["Data-Agent-Governance-Security"],
   "accelerator": "Data & Agent Governance and Security",
   "programmingLanguages": ["PowerShell", "Bicep"],
   "excerpt": "Confidently adopt AI by automating Microsoft Purview and compliance guardrails - capturing prompts and responses, enforcing data protection policies, and streamlining governance across Copilot, Foundry, Fabric, and custom AI agents.",

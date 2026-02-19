@@ -4,7 +4,7 @@
     "Migrate & modernize your estate"],
   "solutionAreas": ["Cloud & AI Platforms"],
   "stability": "Live",
-  "key": ["Multi-agent Custom Automation Engine", "Content Processing", "Conversation Knowledge Mining"],
+  "key": ["deploy-ai-applications-in-production"],
   "accelerator": "Deploy Your AI Application in Production",
   "programmingLanguages": ["Bicep", "Shell", "PowerShell", "Python"],
   "excerpt": "Create a secure, extensible and integrated environment for deploying and running AI Foundry workloads in production.",

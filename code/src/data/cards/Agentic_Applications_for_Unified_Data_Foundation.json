@@ -2,7 +2,7 @@
   "solutionPlays": ["Unify your data platform", "Innovate with AI apps & agents"],
   "solutionAreas": ["Cloud & AI Platforms"],
   "stability": "Live",
-  "key": "Agentic-Applications-Unified-Data",
+  "key": ["Agentic-Applications-Unified-Data"],
   "accelerator": "Agentic Applications for Unified Data Foundation",
   "programmingLanguages": ["Python", "SQL", "TypeScript"],
   "excerpt": "Accelerate decision making at scale with secure, agentic AI built on a unified data foundation with two use cases for sales performance and customer insights.",

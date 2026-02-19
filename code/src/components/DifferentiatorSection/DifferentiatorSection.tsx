@@ -6,7 +6,8 @@ import {
   AccordionHeader,
   AccordionItem,
   AccordionPanel,
-  makeStyles
+  makeStyles,
+  mergeClasses
 } from '@fluentui/react-components';
 import { ChevronUp20Regular, ChevronDown20Regular } from '@fluentui/react-icons';
 import './DifferentiatorSection.css';
@@ -187,7 +188,7 @@ const DifferentiatorSection: React.FC<DifferentiatorSectionProps> = ({
                 <AccordionItem
                   key={item.id}
                   value={item.id}
-                  className={`${styles.accordionItem} ${isOpen ? styles.accordionItemActive : ''}`}
+                  className={mergeClasses(styles.accordionItem, isOpen && styles.accordionItemActive)}
                 >
                   <AccordionHeader
                     className={styles.accordionHeader}

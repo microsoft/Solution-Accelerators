@@ -8,7 +8,7 @@
   "stability": "Live",
   "accelerator": "Multi-Agent Content Generation",
   "programmingLanguages": ["Python", "TypeScript", "Bicep"],
-  "key": "Mult-Agent-Content-Generation",
+  "key": ["Mult-Agent-Content-Generation"],
   "featured": false,
   "excerpt": "An AI‑powered multi‑agent, multi-modal accelerator that transforms creative briefs into fast, on‑brand marketing copy and visuals - reducing manual work and accelerating campaign creation.",
   "productsAndServices": ["Foundry IQ", "Azure OpenAI Service", "Agent Framework","Azure Cosmos DB", "Microsoft Foundry","Azure Container Apps", "Azure Blob Storage"],

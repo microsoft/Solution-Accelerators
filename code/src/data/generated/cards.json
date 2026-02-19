@@ -8,7 +8,9 @@
       "Cloud & AI Platforms"
     ],
     "stability": "Live",
-    "key": "Agentic-Applications-Unified-Data",
+    "key": [
+      "Agentic-Applications-Unified-Data"
+    ],
     "accelerator": "Agentic Applications for Unified Data Foundation",
     "programmingLanguages": [
       "Python",
@@ -77,9 +79,7 @@
     ],
     "stability": "Live",
     "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
+      "chat-with-your-data"
     ],
     "accelerator": "Chat with your data",
     "programmingLanguages": [
@@ -170,9 +170,7 @@
     ],
     "stability": "Live",
     "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
+      "code-modernization"
     ],
     "accelerator": "Modernize your Code",
     "programmingLanguages": [
@@ -243,7 +241,7 @@
     ],
     "stability": "Live",
     "key": [
-      "Container-Mi"
+      "container-migration"
     ],
     "accelerator": "Container-Migration",
     "programmingLanguages": [
@@ -315,7 +313,9 @@
       "TypeScript",
       "Bicep"
     ],
-    "key": "Mult-Agent-Content-Generation",
+    "key": [
+      "Mult-Agent-Content-Generation"
+    ],
     "featured": false,
     "excerpt": "An AI‑powered multi‑agent, multi-modal accelerator that transforms creative briefs into fast, on‑brand marketing copy and visuals - reducing manual work and accelerating campaign creation.",
     "productsAndServices": [
@@ -377,9 +377,7 @@
     ],
     "stability": "Live",
     "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
+      "content-processing"
     ],
     "accelerator": "Content Processing",
     "programmingLanguages": [
@@ -451,6 +449,9 @@
     ],
     "stability": "Live",
     "accelerator": "Conversation Knowledge Mining",
+    "key": [
+      "conversation-knowledge-mining"
+    ],
     "programmingLanguages": [
       "Python",
       "TypeScript",
@@ -589,7 +590,9 @@
       "Security"
     ],
     "stability": "Live",
-    "key": "Data-Agent-Governance-Security",
+    "key": [
+      "Data-Agent-Governance-Security"
+    ],
     "accelerator": "Data & Agent Governance and Security",
     "programmingLanguages": [
       "PowerShell",
@@ -659,9 +662,7 @@
     ],
     "stability": "Live",
     "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
+      "deploy-ai-applications-in-production"
     ],
     "accelerator": "Deploy Your AI Application in Production",
     "programmingLanguages": [
@@ -726,9 +727,7 @@
     ],
     "stability": "Live",
     "key": [
-      "Multi-agent Custom Automation Engine",
-      "Content Processing",
-      "Conversation Knowledge Mining"
+      "document-knowledge-mining"
     ],
     "accelerator": "Document Knowledge Mining",
     "programmingLanguages": [
@@ -822,6 +821,9 @@
     ],
     "stability": "Live",
     "accelerator": "Multi-Agent Custom Automation Engine",
+    "key": [
+      "multi-agent-custom-automation-engine"
+    ],
     "featured": true,
     "excerpt": "Enhance task planning and automation by orchestrating and managing a group of AI agents with multiple use cases: Employee On-Boarding and Self-service, Product Marketing, Customer Retail Remediation, RFP Reviewer, Contract Compliance Reviewer",
     "productsAndServices": [
@@ -832,6 +834,11 @@
       "Azure Cosmos DB",
       "Foundry IQ",
       "MCP Container"
+    ],
+    "programmingLanguages": [
+      "Python",
+      "TypeScript",
+      "Bicep"
     ],
     "githubUrl": "https://aka.ms/CSAGoldStandards/MultiAgent",
     "assets": [
@@ -986,7 +993,9 @@
     ],
     "stability": "Live",
     "featured": false,
-    "key": "Unified-Data-Foundation-Fabric",
+    "key": [
+      "Unified-Data-Foundation-Fabric"
+    ],
     "accelerator": "Unified Data Foundation with Fabric",
     "excerpt": "Establish a unified data foundation in Fabric to accelerate decisions and insights using Fabric Data Agents, Copilot, and governance on a secure, scalable architecture.",
     "productsAndServices": [

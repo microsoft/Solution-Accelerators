@@ -814,6 +814,91 @@
   },
   {
     "solutionPlays": [
+      "Unify your data platform",
+      "Innovate with AI apps & agents"
+    ],
+    "solutionAreas": [
+      "Cloud & AI Platforms"
+    ],
+    "stability": "Live",
+    "key": [
+      "microsoft-iq"
+    ],
+    "accelerator": "Microsoft IQ",
+    "programmingLanguages": [
+      "Python",
+      "TypeScript",
+      "Bicep"
+    ],
+    "excerpt": "Microsoft IQ solution accelerator leverages a shared intelligence layer to unify data, knowledge, and workflows, enabling AI-powered insights and coordinated actions for measurable business outcomes.",
+    "productsAndServices": [
+      "Microsoft Foundry",
+      "Microsoft Agent Framework",
+      "Foundry IQ",
+      "Work IQ",
+      "Microsoft Fabric",
+      "Fabric IQ",
+      "OneLake",
+      "Power BI",
+      "Microsoft 365 Copilot",
+      "Copilot Studio",
+      "Agent Flows",
+      "Azure Blob Storage"
+    ],
+    "githubUrl": "https://aka.ms/MSIQ",
+    "assets": [
+      {
+        "label": "Walkthrough",
+        "href": "https://aka.ms/MSIQDeck",
+        "fileType": "pptx"
+      }
+    ],
+    "technicalPattern": "Microsoft IQ",
+    "foundryTemplateName": "Microsoft IQ TBD",
+    "useCases": [
+      "Supply Chain intelligence orchestration for retail",
+      "Enterprise knowledge and workflow intelligence for industrials and manufacturing",
+      "Unified data and analytics agents for energy",
+      "Cross-domain ontology-driven insights for automotive",
+      "Retail",
+      "Data Agents",
+      "AI",
+      "Analytics",
+      "Microsoft IQ",
+      "Ontology",
+      "Enterprise Knowledge"
+    ],
+    "keywords": [
+      "AI",
+      "Microsoft IQ",
+      "Microsoft Foundry",
+      "Microsoft Agent Framework",
+      "Foundry IQ",
+      "Microsoft Fabric",
+      "Fabric IQ",
+      "Fabric Data Agent",
+      "M365",
+      "Copilot Studio",
+      "Work IQ",
+      "enterprise data",
+      "enterprise knowledge",
+      "data agent",
+      "analytics",
+      "ontology",
+      "agentic AI",
+      "azd template"
+    ],
+    "industries": [
+      "Automotive",
+      "Energy",
+      "Industrials and Manufacturing",
+      "Retail"
+    ],
+    "releaseDate": "2026-06-01",
+    "updatedDate": "2026-06-01"
+  },
+  {
+    "solutionPlays": [
       "Innovate with AI apps & agents"
     ],
     "solutionAreas": [

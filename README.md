@@ -1,7 +1,5 @@
 # Microsoft AI Solution Accelerators
 
-Source: https://accelerators.ms/
-
 ## <a href="https://github.com/microsoft/microsoft-iq-solution-accelerator" target="_blank" rel="noopener noreferrer">Microsoft IQ</a>
 
 Microsoft IQ solution accelerator leverages a shared intelligence layer to unify data, knowledge, and workflows, enabling AI-powered insights and coordinated actions for measurable business outcomes.
